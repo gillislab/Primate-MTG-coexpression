@@ -1,0 +1,595 @@
+within_species_cluster,cross_species_cluster,map_level,map_type
+human|Astro_1,glia|1,good,auroc_0.5
+human|Astro_2,glia|1,good,auroc_0.5
+human|Astro_3,glia|1,poor,top_10
+human|Astro_4,glia|1,poor,top_10
+human|Astro_5,glia|1,poor,top_10
+human|Endo_1,glia|5,good,auroc_0.5
+human|Micro-PVM_1,glia|7,poor,top_10
+human|Micro-PVM_2,glia|7,good,auroc_0.5
+human|Micro-PVM_3,glia|7,poor,top_10
+human|Oligo_1,glia|9,good,auroc_0.5
+human|Oligo_2,glia|9,good,auroc_0.5
+human|Oligo_3,glia|9,poor,top_10
+human|Oligo_4,glia|9,poor,top_10
+human|OPC_1,glia|12,good,auroc_0.5
+human|OPC_2,glia|13,good,auroc_0.5
+human|VLMC_1,glia|14,good,auroc_0.5
+human|VLMC_2,glia|15,good,auroc_0.5
+chimp|Astro_1,glia|1,good,auroc_0.5
+chimp|Astro_2,glia|1,poor,top_10
+chimp|Endo_1,glia|5,good,auroc_0.5
+chimp|Micro-PVM_1,glia|7,good,auroc_0.5
+chimp|Micro-PVM_2,glia|7,poor,top_10
+chimp|Oligo_1,glia|9,good,auroc_0.5
+chimp|Oligo_2,glia|9,good,auroc_0.5
+chimp|OPC_1,glia|12,good,auroc_0.5
+chimp|OPC_2,glia|13,good,auroc_0.5
+chimp|VLMC_1,glia|15,good,auroc_0.5
+gorilla|Astro_1,glia|1,good,auroc_0.5
+gorilla|Astro_2,glia|1,good,auroc_0.5
+gorilla|Astro_3,glia|1,poor,top_10
+gorilla|Astro_4,glia|1,poor,top_10
+gorilla|Endo_1,glia|5,good,auroc_0.5
+gorilla|Endo_2,glia|5,good,auroc_0.5
+gorilla|Micro-PVM_1,glia|7,good,auroc_0.5
+gorilla|Micro-PVM_2,glia|7,good,auroc_0.5
+gorilla|Micro-PVM_3,glia|20,good,auroc_0.5
+gorilla|Oligo_1,glia|9,good,auroc_0.5
+gorilla|OPC_1,glia|13,good,auroc_0.5
+gorilla|OPC_2,glia|12,poor,manual
+gorilla|OPC_3,glia|13,good,auroc_0.5
+gorilla|VLMC_1,glia|15,good,auroc_0.5
+gorilla|VLMC_2,glia|15,poor,manual
+gorilla|VLMC_3,glia|14,good,auroc_0.5
+gorilla|VLMC_4,glia|14,good,auroc_0.5
+rhesus|Astro_1,glia|1,good,auroc_0.5
+rhesus|Astro_2,glia|1,good,auroc_0.5
+rhesus|Astro_3,glia|1,good,auroc_0.5
+rhesus|Endo_1,glia|5,good,auroc_0.5
+rhesus|Micro-PVM_1,glia|23,good,auroc_0.5
+rhesus|Micro-PVM_2,glia|7,good,auroc_0.5
+rhesus|Micro-PVM_3,glia|7,good,auroc_0.5
+rhesus|Oligo_1,glia|9,good,auroc_0.5
+rhesus|Oligo_2,glia|9,good,auroc_0.5
+rhesus|OPC_1,glia|12,good,auroc_0.5
+rhesus|OPC_2,glia|13,good,auroc_0.5
+rhesus|OPC_3,glia|13,good,auroc_0.5
+rhesus|VLMC_1,glia|14,good,auroc_0.5
+rhesus|VLMC_2,glia|15,good,auroc_0.5
+marmoset|Astro_1,glia|1,good,auroc_0.5
+marmoset|Astro_2,glia|1,poor,top_10
+marmoset|Astro_3,glia|1,good,auroc_0.5
+marmoset|Astro_4,glia|1,poor,top_10
+marmoset|Endo_1,glia|5,good,auroc_0.5
+marmoset|Endo_2,glia|5,good,auroc_0.5
+marmoset|Endo_3,glia|5,good,auroc_0.5
+marmoset|Micro-PVM_1,glia|23,good,auroc_0.5
+marmoset|Micro-PVM_2,glia|7,poor,top_10
+marmoset|Micro-PVM_3,glia|7,good,auroc_0.5
+marmoset|Micro-PVM_4,glia|20,good,auroc_0.5
+marmoset|Oligo_1,glia|9,good,auroc_0.5
+marmoset|Oligo_2,glia|9,good,auroc_0.5
+marmoset|OPC_1,glia|12,good,auroc_0.5
+marmoset|OPC_2,glia|13,good,auroc_0.5
+marmoset|OPC_3,glia|13,poor,top_10
+marmoset|OPC_4,glia|13,good,auroc_0.5
+marmoset|VLMC_1,glia|15,poor,manual
+marmoset|VLMC_2,glia|14,good,auroc_0.5
+marmoset|VLMC_3,glia|14,good,auroc_0.5
+marmoset|VLMC_4,glia|14,good,auroc_0.5
+human|L5 ET_1,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+human|L5 ET_2,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+human|L5/6 NP_1,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+human|L5/6 NP_2,l5et_l56np_l6ct_l6b|4,poor,manual
+human|L5/6 NP_3,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+human|L5/6 NP_4,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+human|L5/6 NP_5,l5et_l56np_l6ct_l6b|3,poor,top_10
+human|L5/6 NP_6,l5et_l56np_l6ct_l6b|3,poor,top_10
+human|L6 CT_1,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+human|L6 CT_2,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+human|L6 CT_3,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+human|L6 CT_4,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+human|L6b_1,l5et_l56np_l6ct_l6b|9,good,auroc_0.5
+human|L6b_2,l5et_l56np_l6ct_l6b|10,good,auroc_0.5
+human|L6b_3,l5et_l56np_l6ct_l6b|12,poor,top_10
+human|L6b_4,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+human|L6b_5,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+human|L6b_6,l5et_l56np_l6ct_l6b|13,good,auroc_0.5
+chimp|L5 ET_1,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+chimp|L5 ET_2,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+chimp|L5/6 NP_1,l5et_l56np_l6ct_l6b|4,poor,manual
+chimp|L5/6 NP_2,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+chimp|L6 CT_1,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+chimp|L6 CT_2,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+chimp|L6 CT_3,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+chimp|L6b_1,l5et_l56np_l6ct_l6b|9,good,auroc_0.5
+chimp|L6b_2,l5et_l56np_l6ct_l6b|10,poor,top_10
+chimp|L6b_3,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+chimp|L6b_4,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+chimp|L6b_5,l5et_l56np_l6ct_l6b|13,good,auroc_0.5
+chimp|L6b_6,l5et_l56np_l6ct_l6b|12,poor,top_20
+gorilla|L5 ET_1,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+gorilla|L5 ET_2,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+gorilla|L5 ET_3,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+gorilla|L5 ET_4,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+gorilla|L5/6 NP_1,l5et_l56np_l6ct_l6b|4,good,manual
+gorilla|L5/6 NP_2,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+gorilla|L5/6 NP_3,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+gorilla|L5/6 NP_4,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+gorilla|L6 CT_1,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+gorilla|L6 CT_2,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+gorilla|L6b_1,l5et_l56np_l6ct_l6b|10,good,auroc_0.5
+gorilla|L6b_2,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+gorilla|L6b_3,l5et_l56np_l6ct_l6b|9,good,auroc_0.5
+gorilla|L6b_4,l5et_l56np_l6ct_l6b|10,good,auroc_0.5
+gorilla|L6b_5,l5et_l56np_l6ct_l6b|13,good,auroc_0.5
+gorilla|L6b_6,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+rhesus|L5 ET_1,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+rhesus|L5 ET_2,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+rhesus|L5/6 NP_1,l5et_l56np_l6ct_l6b|4,good,manual
+rhesus|L5/6 NP_2,l5et_l56np_l6ct_l6b|3,poor,top_10
+rhesus|L5/6 NP_3,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+rhesus|L5/6 NP_4,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+rhesus|L5/6 NP_5,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+rhesus|L5/6 NP_6,l5et_l56np_l6ct_l6b|3,poor,top_10
+rhesus|L5/6 NP_7,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+rhesus|L5/6 NP_8,l5et_l56np_l6ct_l6b|3,poor,top_10
+rhesus|L6 CT_1,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+rhesus|L6 CT_2,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+rhesus|L6 CT_3,l5et_l56np_l6ct_l6b|7,poor,top_10
+rhesus|L6 CT_4,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+rhesus|L6b_1,l5et_l56np_l6ct_l6b|13,good,auroc_0.5
+rhesus|L6b_2,l5et_l56np_l6ct_l6b|12,good,auroc_0.5
+rhesus|L6b_3,l5et_l56np_l6ct_l6b|10,good,auroc_0.5
+rhesus|L6b_4,l5et_l56np_l6ct_l6b|9,good,auroc_0.5
+marmoset|L5 ET_1,l5et_l56np_l6ct_l6b|1,good,auroc_0.5
+marmoset|L5 ET_2,l5et_l56np_l6ct_l6b|2,good,auroc_0.5
+marmoset|L5/6 NP_1,l5et_l56np_l6ct_l6b|3,good,auroc_0.5
+marmoset|L5/6 NP_2,l5et_l56np_l6ct_l6b|4,good,manual
+marmoset|L6 CT_1,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+marmoset|L6 CT_2,l5et_l56np_l6ct_l6b|7,good,auroc_0.5
+marmoset|L6 CT_3,l5et_l56np_l6ct_l6b|8,good,auroc_0.5
+marmoset|L6b_1,l5et_l56np_l6ct_l6b|13,good,auroc_0.5
+marmoset|L6b_2,l5et_l56np_l6ct_l6b|9,good,auroc_0.5
+marmoset|L6b_3,l5et_l56np_l6ct_l6b|10,good,auroc_0.5
+human|Lamp5_1,lamp5_sncg_vip|2,poor,top_10
+human|Lamp5_2,lamp5_sncg_vip|2,good,auroc_0.5
+human|Lamp5_3,lamp5_sncg_vip|2,good,auroc_0.5
+human|Lamp5_4,lamp5_sncg_vip|3,good,auroc_0.5
+human|Lamp5_5,lamp5_sncg_vip|3,good,auroc_0.5
+human|Lamp5_6,lamp5_sncg_vip|3,good,auroc_0.5
+human|Lamp5_Lhx6_1,lamp5_sncg_vip|4,good,auroc_0.5
+human|Pax6_1,lamp5_sncg_vip|5,good,auroc_0.5
+human|Pax6_2,lamp5_sncg_vip|5,good,auroc_0.5
+human|Pax6_3,lamp5_sncg_vip|6,good,auroc_0.5
+human|Pax6_4,lamp5_sncg_vip|7,good,auroc_0.5
+human|Sncg_1,lamp5_sncg_vip|8,good,auroc_0.5
+human|Sncg_2,lamp5_sncg_vip|9,good,auroc_0.5
+human|Sncg_3,lamp5_sncg_vip|10,good,auroc_0.5
+human|Sncg_4,lamp5_sncg_vip|11,good,auroc_0.5
+human|Sncg_5,lamp5_sncg_vip|12,good,auroc_0.5
+human|Sncg_6,lamp5_sncg_vip|13,good,auroc_0.5
+human|Sncg_7,lamp5_sncg_vip|14,good,auroc_0.5
+human|Sncg_8,lamp5_sncg_vip|9,good,auroc_0.5
+human|Vip_1,lamp5_sncg_vip|15,good,auroc_0.5
+human|Vip_10,lamp5_sncg_vip|16,good,auroc_0.5
+human|Vip_11,lamp5_sncg_vip|15,good,auroc_0.5
+human|Vip_12,lamp5_sncg_vip|17,good,auroc_0.5
+human|Vip_13,lamp5_sncg_vip|15,good,auroc_0.5
+human|Vip_14,lamp5_sncg_vip|18,good,auroc_0.5
+human|Vip_15,lamp5_sncg_vip|19,good,auroc_0.5
+human|Vip_16,lamp5_sncg_vip|9,good,auroc_0.5
+human|Vip_17,lamp5_sncg_vip|20,good,auroc_0.5
+human|Vip_18,lamp5_sncg_vip|17,good,auroc_0.5
+human|Vip_19,lamp5_sncg_vip|21,good,auroc_0.5
+human|Vip_2,lamp5_sncg_vip|22,good,auroc_0.5
+human|Vip_20,lamp5_sncg_vip|17,poor,top_10
+human|Vip_21,lamp5_sncg_vip|24,good,auroc_0.5
+human|Vip_22,lamp5_sncg_vip|24,good,auroc_0.5
+human|Vip_23,lamp5_sncg_vip|22,good,auroc_0.5
+human|Vip_3,lamp5_sncg_vip|22,good,auroc_0.5
+human|Vip_4,lamp5_sncg_vip|25,good,auroc_0.5
+human|Vip_5,lamp5_sncg_vip|26,good,auroc_0.5
+human|Vip_6,lamp5_sncg_vip|27,good,auroc_0.5
+human|Vip_7,lamp5_sncg_vip|25,good,auroc_0.5
+human|Vip_8,lamp5_sncg_vip|27,poor,top_10
+human|Vip_9,lamp5_sncg_vip|27,good,auroc_0.5
+chimp|Lamp5_1,lamp5_sncg_vip|3,good,auroc_0.5
+chimp|Lamp5_2,lamp5_sncg_vip|2,good,auroc_0.5
+chimp|Lamp5_3,lamp5_sncg_vip|29,good,auroc_0.5
+chimp|Lamp5_Lhx6_1,lamp5_sncg_vip|4,good,auroc_0.5
+chimp|Lamp5_Lhx6_2,lamp5_sncg_vip|4,good,auroc_0.5
+chimp|Pax6_1,lamp5_sncg_vip|5,good,auroc_0.5
+chimp|Pax6_2,lamp5_sncg_vip|5,good,auroc_0.5
+chimp|Pax6_3,lamp5_sncg_vip|6,good,auroc_0.5
+chimp|Pax6_4,lamp5_sncg_vip|7,good,auroc_0.5
+chimp|Sncg_1,lamp5_sncg_vip|3,good,auroc_0.5
+chimp|Sncg_10,lamp5_sncg_vip|9,good,auroc_0.5
+chimp|Sncg_2,lamp5_sncg_vip|11,good,auroc_0.5
+chimp|Sncg_3,lamp5_sncg_vip|13,good,auroc_0.5
+chimp|Sncg_4,lamp5_sncg_vip|13,poor,top_10
+chimp|Sncg_5,lamp5_sncg_vip|10,good,auroc_0.5
+chimp|Sncg_6,lamp5_sncg_vip|11,poor,top_10
+chimp|Sncg_7,lamp5_sncg_vip|8,good,auroc_0.5
+chimp|Sncg_8,lamp5_sncg_vip|14,good,auroc_0.5
+chimp|Sncg_9,lamp5_sncg_vip|11,poor,top_10
+chimp|Vip_1,lamp5_sncg_vip|19,good,auroc_0.5
+chimp|Vip_10,lamp5_sncg_vip|17,good,auroc_0.5
+chimp|Vip_11,lamp5_sncg_vip|17,poor,top_10
+chimp|Vip_12,lamp5_sncg_vip|19,good,auroc_0.5
+chimp|Vip_13,lamp5_sncg_vip|21,good,auroc_0.5
+chimp|Vip_14,lamp5_sncg_vip|17,good,auroc_0.5
+chimp|Vip_15,lamp5_sncg_vip|19,poor,top_10
+chimp|Vip_16,lamp5_sncg_vip|18,good,auroc_0.5
+chimp|Vip_17,lamp5_sncg_vip|9,good,auroc_0.5
+chimp|Vip_18,lamp5_sncg_vip|27,good,auroc_0.5
+chimp|Vip_19,lamp5_sncg_vip|26,good,auroc_0.5
+chimp|Vip_2,lamp5_sncg_vip|25,good,auroc_0.5
+chimp|Vip_20,lamp5_sncg_vip|27,good,auroc_0.5
+chimp|Vip_3,lamp5_sncg_vip|25,good,auroc_0.5
+chimp|Vip_4,lamp5_sncg_vip|16,good,auroc_0.5
+chimp|Vip_5,lamp5_sncg_vip|15,good,auroc_0.5
+chimp|Vip_6,lamp5_sncg_vip|22,good,auroc_0.5
+chimp|Vip_7,lamp5_sncg_vip|22,good,auroc_0.5
+chimp|Vip_8,lamp5_sncg_vip|22,poor,top_10
+chimp|Vip_9,lamp5_sncg_vip|24,good,auroc_0.5
+gorilla|Lamp5_1,lamp5_sncg_vip|3,good,auroc_0.5
+gorilla|Lamp5_2,lamp5_sncg_vip|2,good,auroc_0.5
+gorilla|Lamp5_Lhx6_1,lamp5_sncg_vip|4,good,auroc_0.5
+gorilla|Lamp5_Lhx6_2,lamp5_sncg_vip|4,good,auroc_0.5
+gorilla|Pax6_1,lamp5_sncg_vip|7,good,auroc_0.5
+gorilla|Pax6_2,lamp5_sncg_vip|6,good,auroc_0.5
+gorilla|Pax6_3,lamp5_sncg_vip|5,good,auroc_0.5
+gorilla|Pax6_4,lamp5_sncg_vip|5,good,auroc_0.5
+gorilla|Sncg_1,lamp5_sncg_vip|13,good,auroc_0.5
+gorilla|Sncg_2,lamp5_sncg_vip|11,good,auroc_0.5
+gorilla|Sncg_3,lamp5_sncg_vip|12,good,auroc_0.5
+gorilla|Sncg_4,lamp5_sncg_vip|36,good,auroc_0.5
+gorilla|Sncg_5,lamp5_sncg_vip|9,good,auroc_0.5
+gorilla|Sncg_6,lamp5_sncg_vip|10,good,auroc_0.5
+gorilla|Sncg_7,lamp5_sncg_vip|8,good,auroc_0.5
+gorilla|Vip_1,lamp5_sncg_vip|25,good,auroc_0.5
+gorilla|Vip_10,lamp5_sncg_vip|27,good,auroc_0.5
+gorilla|Vip_11,lamp5_sncg_vip|26,good,auroc_0.5
+gorilla|Vip_12,lamp5_sncg_vip|27,poor,top_10
+gorilla|Vip_13,lamp5_sncg_vip|27,good,auroc_0.5
+gorilla|Vip_14,lamp5_sncg_vip|15,good,auroc_0.5
+gorilla|Vip_15,lamp5_sncg_vip|24,good,auroc_0.5
+gorilla|Vip_16,lamp5_sncg_vip|22,good,auroc_0.5
+gorilla|Vip_17,lamp5_sncg_vip|17,good,auroc_0.5
+gorilla|Vip_2,lamp5_sncg_vip|17,good,auroc_0.5
+gorilla|Vip_3,lamp5_sncg_vip|20,good,auroc_0.5
+gorilla|Vip_4,lamp5_sncg_vip|22,good,auroc_0.5
+gorilla|Vip_5,lamp5_sncg_vip|22,good,auroc_0.5
+gorilla|Vip_6,lamp5_sncg_vip|22,poor,top_10
+gorilla|Vip_7,lamp5_sncg_vip|9,good,auroc_0.5
+gorilla|Vip_8,lamp5_sncg_vip|19,good,auroc_0.5
+gorilla|Vip_9,lamp5_sncg_vip|19,good,auroc_0.5
+rhesus|Lamp5_1,lamp5_sncg_vip|3,good,auroc_0.5
+rhesus|Lamp5_2,lamp5_sncg_vip|3,good,auroc_0.5
+rhesus|Lamp5_3,lamp5_sncg_vip|2,good,auroc_0.5
+rhesus|Lamp5_4,lamp5_sncg_vip|29,good,auroc_0.5
+rhesus|Lamp5_Lhx6_1,lamp5_sncg_vip|4,good,auroc_0.5
+rhesus|Pax6_1,lamp5_sncg_vip|5,good,auroc_0.5
+rhesus|Pax6_2,lamp5_sncg_vip|5,good,auroc_0.5
+rhesus|Pax6_3,lamp5_sncg_vip|6,good,auroc_0.5
+rhesus|Pax6_4,lamp5_sncg_vip|7,good,auroc_0.5
+rhesus|Sncg_1,lamp5_sncg_vip|11,poor,top_10
+rhesus|Sncg_2,lamp5_sncg_vip|11,poor,top_10
+rhesus|Sncg_3,lamp5_sncg_vip|11,good,auroc_0.5
+rhesus|Sncg_4,lamp5_sncg_vip|14,good,auroc_0.5
+rhesus|Sncg_5,lamp5_sncg_vip|9,good,auroc_0.5
+rhesus|Sncg_6,lamp5_sncg_vip|9,good,auroc_0.5
+rhesus|Sncg_7,lamp5_sncg_vip|10,good,auroc_0.5
+rhesus|Vip_1,lamp5_sncg_vip|18,good,auroc_0.5
+rhesus|Vip_10,lamp5_sncg_vip|25,good,auroc_0.5
+rhesus|Vip_11,lamp5_sncg_vip|26,good,auroc_0.5
+rhesus|Vip_12,lamp5_sncg_vip|27,good,auroc_0.5
+rhesus|Vip_13,lamp5_sncg_vip|27,poor,top_10
+rhesus|Vip_14,lamp5_sncg_vip|27,good,auroc_0.5
+rhesus|Vip_15,lamp5_sncg_vip|27,poor,top_10
+rhesus|Vip_2,lamp5_sncg_vip|27,poor,top_10
+rhesus|Vip_3,lamp5_sncg_vip|17,good,auroc_0.5
+rhesus|Vip_4,lamp5_sncg_vip|15,good,auroc_0.5
+rhesus|Vip_5,lamp5_sncg_vip|22,good,auroc_0.5
+rhesus|Vip_6,lamp5_sncg_vip|22,good,auroc_0.5
+rhesus|Vip_7,lamp5_sncg_vip|24,good,auroc_0.5
+rhesus|Vip_8,lamp5_sncg_vip|19,good,auroc_0.5
+rhesus|Vip_9,lamp5_sncg_vip|9,good,auroc_0.5
+marmoset|Lamp5_1,lamp5_sncg_vip|3,good,auroc_0.5
+marmoset|Lamp5_2,lamp5_sncg_vip|2,good,auroc_0.5
+marmoset|Lamp5_Lhx6_1,lamp5_sncg_vip|4,good,auroc_0.5
+marmoset|Pax6_1,lamp5_sncg_vip|5,good,auroc_0.5
+marmoset|Pax6_2,lamp5_sncg_vip|5,good,auroc_0.5
+marmoset|Pax6_3,lamp5_sncg_vip|7,good,auroc_0.5
+marmoset|Sncg_1,lamp5_sncg_vip|6,good,auroc_0.5
+marmoset|Sncg_2,lamp5_sncg_vip|8,good,auroc_0.5
+marmoset|Sncg_3,lamp5_sncg_vip|11,good,auroc_0.5
+marmoset|Sncg_4,lamp5_sncg_vip|13,good,auroc_0.5
+marmoset|Sncg_5,lamp5_sncg_vip|6,good,auroc_0.5
+marmoset|Sncg_6,lamp5_sncg_vip|7,good,auroc_0.5
+marmoset|Sncg_7,lamp5_sncg_vip|36,good,auroc_0.5
+marmoset|Sncg_8,lamp5_sncg_vip|10,good,auroc_0.5
+marmoset|Sncg_9,lamp5_sncg_vip|9,good,auroc_0.5
+marmoset|Vip_1,lamp5_sncg_vip|26,good,auroc_0.5
+marmoset|Vip_10,lamp5_sncg_vip|22,good,auroc_0.5
+marmoset|Vip_11,lamp5_sncg_vip|27,good,auroc_0.5
+marmoset|Vip_12,lamp5_sncg_vip|16,good,auroc_0.5
+marmoset|Vip_13,lamp5_sncg_vip|15,good,auroc_0.5
+marmoset|Vip_2,lamp5_sncg_vip|24,good,auroc_0.5
+marmoset|Vip_3,lamp5_sncg_vip|25,good,auroc_0.5
+marmoset|Vip_4,lamp5_sncg_vip|9,poor,top_20
+marmoset|Vip_5,lamp5_sncg_vip|18,good,auroc_0.5
+marmoset|Vip_6,lamp5_sncg_vip|17,poor,top_10
+marmoset|Vip_7,lamp5_sncg_vip|17,good,auroc_0.5
+marmoset|Vip_8,lamp5_sncg_vip|17,poor,top_10
+marmoset|Vip_9,lamp5_sncg_vip|17,good,auroc_0.5
+human|Chandelier_1,sst_sst_chodl_pvalb|1,good,auroc_0.5
+human|Chandelier_2,sst_sst_chodl_pvalb|1,good,auroc_0.5
+human|Pvalb_1,sst_sst_chodl_pvalb|2,good,auroc_0.5
+human|Pvalb_10,sst_sst_chodl_pvalb|3,good,auroc_0.5
+human|Pvalb_11,sst_sst_chodl_pvalb|3,good,auroc_0.5
+human|Pvalb_12,sst_sst_chodl_pvalb|3,poor,top_10
+human|Pvalb_13,sst_sst_chodl_pvalb|3,poor,top_10
+human|Pvalb_14,sst_sst_chodl_pvalb|6,good,auroc_0.5
+human|Pvalb_15,sst_sst_chodl_pvalb|6,good,auroc_0.5
+human|Pvalb_2,sst_sst_chodl_pvalb|6,good,auroc_0.5
+human|Pvalb_3,sst_sst_chodl_pvalb|6,poor,top_10
+human|Pvalb_4,sst_sst_chodl_pvalb|6,poor,top_10
+human|Pvalb_5,sst_sst_chodl_pvalb|6,good,auroc_0.5
+human|Pvalb_6,sst_sst_chodl_pvalb|9,good,auroc_0.5
+human|Pvalb_7,sst_sst_chodl_pvalb|10,good,auroc_0.5
+human|Pvalb_8,sst_sst_chodl_pvalb|11,good,auroc_0.5
+human|Pvalb_9,sst_sst_chodl_pvalb|12,good,auroc_0.5
+human|Sst Chodl_1,sst_sst_chodl_pvalb|13,good,auroc_0.5
+human|Sst Chodl_2,sst_sst_chodl_pvalb|14,good,auroc_0.5
+human|Sst_1,sst_sst_chodl_pvalb|15,good,auroc_0.5
+human|Sst_10,sst_sst_chodl_pvalb|20,poor,top_10
+human|Sst_11,sst_sst_chodl_pvalb|26,poor,top_20
+human|Sst_12,sst_sst_chodl_pvalb|18,good,auroc_0.5
+human|Sst_13,sst_sst_chodl_pvalb|19,good,auroc_0.5
+human|Sst_14,sst_sst_chodl_pvalb|20,good,auroc_0.5
+human|Sst_15,sst_sst_chodl_pvalb|18,poor,top_10
+human|Sst_16,sst_sst_chodl_pvalb|22,good,auroc_0.5
+human|Sst_17,sst_sst_chodl_pvalb|22,poor,top_10
+human|Sst_18,sst_sst_chodl_pvalb|20,good,auroc_0.5
+human|Sst_19,sst_sst_chodl_pvalb|22,good,auroc_0.5
+human|Sst_2,sst_sst_chodl_pvalb|24,good,auroc_0.5
+human|Sst_20,sst_sst_chodl_pvalb|25,good,auroc_0.5
+human|Sst_21,sst_sst_chodl_pvalb|25,good,auroc_0.5
+human|Sst_22,sst_sst_chodl_pvalb|26,good,auroc_0.5
+human|Sst_23,sst_sst_chodl_pvalb|27,good,auroc_0.5
+human|Sst_24,sst_sst_chodl_pvalb|28,good,auroc_0.5
+human|Sst_25,sst_sst_chodl_pvalb|29,good,auroc_0.5
+human|Sst_26,sst_sst_chodl_pvalb|29,good,auroc_0.5
+human|Sst_3,sst_sst_chodl_pvalb|25,good,auroc_0.5
+human|Sst_4,sst_sst_chodl_pvalb|30,good,auroc_0.5
+human|Sst_5,sst_sst_chodl_pvalb|30,good,auroc_0.5
+human|Sst_6,sst_sst_chodl_pvalb|30,poor,top_10
+human|Sst_7,sst_sst_chodl_pvalb|30,good,auroc_0.5
+human|Sst_8,sst_sst_chodl_pvalb|20,good,auroc_0.5
+human|Sst_9,sst_sst_chodl_pvalb|32,good,auroc_0.5
+chimp|Chandelier_1,sst_sst_chodl_pvalb|1,good,auroc_0.5
+chimp|Chandelier_2,sst_sst_chodl_pvalb|1,good,auroc_0.5
+chimp|Pvalb_1,sst_sst_chodl_pvalb|12,good,auroc_0.5
+chimp|Pvalb_2,sst_sst_chodl_pvalb|9,good,auroc_0.5
+chimp|Pvalb_3,sst_sst_chodl_pvalb|10,poor,top_10
+chimp|Pvalb_4,sst_sst_chodl_pvalb|3,good,auroc_0.5
+chimp|Pvalb_5,sst_sst_chodl_pvalb|2,good,auroc_0.5
+chimp|Pvalb_6,sst_sst_chodl_pvalb|6,good,auroc_0.5
+chimp|Pvalb_7,sst_sst_chodl_pvalb|6,good,auroc_0.5
+chimp|Pvalb_8,sst_sst_chodl_pvalb|6,good,auroc_0.5
+chimp|Pvalb_9,sst_sst_chodl_pvalb|11,good,auroc_0.5
+chimp|Sst Chodl_1,sst_sst_chodl_pvalb|13,good,auroc_0.5
+chimp|Sst_1,sst_sst_chodl_pvalb|24,good,auroc_0.5
+chimp|Sst_10,sst_sst_chodl_pvalb|18,good,auroc_0.5
+chimp|Sst_11,sst_sst_chodl_pvalb|30,good,auroc_0.5
+chimp|Sst_12,sst_sst_chodl_pvalb|30,good,auroc_0.5
+chimp|Sst_13,sst_sst_chodl_pvalb|25,good,auroc_0.5
+chimp|Sst_14,sst_sst_chodl_pvalb|22,good,auroc_0.5
+chimp|Sst_15,sst_sst_chodl_pvalb|19,good,auroc_0.5
+chimp|Sst_2,sst_sst_chodl_pvalb|32,good,auroc_0.5
+chimp|Sst_3,sst_sst_chodl_pvalb|20,good,auroc_0.5
+chimp|Sst_4,sst_sst_chodl_pvalb|20,good,auroc_0.5
+chimp|Sst_5,sst_sst_chodl_pvalb|29,good,auroc_0.5
+chimp|Sst_6,sst_sst_chodl_pvalb|26,good,auroc_0.5
+chimp|Sst_7,sst_sst_chodl_pvalb|27,good,auroc_0.5
+chimp|Sst_8,sst_sst_chodl_pvalb|25,good,auroc_0.5
+chimp|Sst_9,sst_sst_chodl_pvalb|15,good,auroc_0.5
+gorilla|Chandelier_1,sst_sst_chodl_pvalb|1,good,auroc_0.5
+gorilla|Chandelier_2,sst_sst_chodl_pvalb|1,good,auroc_0.5
+gorilla|Pvalb_1,sst_sst_chodl_pvalb|12,good,auroc_0.5
+gorilla|Pvalb_2,sst_sst_chodl_pvalb|10,good,auroc_0.5
+gorilla|Pvalb_3,sst_sst_chodl_pvalb|3,good,auroc_0.5
+gorilla|Pvalb_4,sst_sst_chodl_pvalb|6,good,auroc_0.5
+gorilla|Pvalb_5,sst_sst_chodl_pvalb|9,good,auroc_0.5
+gorilla|Pvalb_6,sst_sst_chodl_pvalb|6,good,auroc_0.5
+gorilla|Pvalb_7,sst_sst_chodl_pvalb|6,good,auroc_0.5
+gorilla|Pvalb_8,sst_sst_chodl_pvalb|11,good,auroc_0.5
+gorilla|Sst Chodl_1,sst_sst_chodl_pvalb|13,good,auroc_0.5
+gorilla|Sst Chodl_2,sst_sst_chodl_pvalb|13,good,auroc_0.5
+gorilla|Sst Chodl_3,sst_sst_chodl_pvalb|14,good,auroc_0.5
+gorilla|Sst_1,sst_sst_chodl_pvalb|30,good,auroc_0.5
+gorilla|Sst_10,sst_sst_chodl_pvalb|20,good,auroc_0.5
+gorilla|Sst_11,sst_sst_chodl_pvalb|27,good,auroc_0.5
+gorilla|Sst_12,sst_sst_chodl_pvalb|22,good,auroc_0.5
+gorilla|Sst_13,sst_sst_chodl_pvalb|24,good,auroc_0.5
+gorilla|Sst_14,sst_sst_chodl_pvalb|29,good,auroc_0.5
+gorilla|Sst_15,sst_sst_chodl_pvalb|29,good,auroc_0.5
+gorilla|Sst_16,sst_sst_chodl_pvalb|26,good,auroc_0.5
+gorilla|Sst_17,sst_sst_chodl_pvalb|26,poor,top_10
+gorilla|Sst_18,sst_sst_chodl_pvalb|32,good,auroc_0.5
+gorilla|Sst_2,sst_sst_chodl_pvalb|30,good,auroc_0.5
+gorilla|Sst_3,sst_sst_chodl_pvalb|30,good,auroc_0.5
+gorilla|Sst_4,sst_sst_chodl_pvalb|15,poor,manual
+gorilla|Sst_5,sst_sst_chodl_pvalb|18,good,auroc_0.5
+gorilla|Sst_6,sst_sst_chodl_pvalb|36,good,auroc_0.5
+gorilla|Sst_7,sst_sst_chodl_pvalb|20,good,auroc_0.5
+gorilla|Sst_8,sst_sst_chodl_pvalb|25,good,auroc_0.5
+gorilla|Sst_9,sst_sst_chodl_pvalb|25,good,auroc_0.5
+rhesus|Chandelier_1,sst_sst_chodl_pvalb|1,good,auroc_0.5
+rhesus|Chandelier_2,sst_sst_chodl_pvalb|1,good,auroc_0.5
+rhesus|Pvalb_1,sst_sst_chodl_pvalb|3,good,auroc_0.5
+rhesus|Pvalb_10,sst_sst_chodl_pvalb|6,poor,top_10
+rhesus|Pvalb_2,sst_sst_chodl_pvalb|2,good,auroc_0.5
+rhesus|Pvalb_3,sst_sst_chodl_pvalb|12,good,auroc_0.5
+rhesus|Pvalb_4,sst_sst_chodl_pvalb|10,good,auroc_0.5
+rhesus|Pvalb_5,sst_sst_chodl_pvalb|10,poor,top_10
+rhesus|Pvalb_6,sst_sst_chodl_pvalb|6,good,auroc_0.5
+rhesus|Pvalb_7,sst_sst_chodl_pvalb|6,poor,top_10
+rhesus|Pvalb_8,sst_sst_chodl_pvalb|6,good,auroc_0.5
+rhesus|Pvalb_9,sst_sst_chodl_pvalb|6,good,auroc_0.5
+rhesus|Sst Chodl_1,sst_sst_chodl_pvalb|13,good,auroc_0.5
+rhesus|Sst Chodl_2,sst_sst_chodl_pvalb|14,good,auroc_0.5
+rhesus|Sst_1,sst_sst_chodl_pvalb|15,good,auroc_0.5
+rhesus|Sst_10,sst_sst_chodl_pvalb|29,good,auroc_0.5
+rhesus|Sst_11,sst_sst_chodl_pvalb|26,good,auroc_0.5
+rhesus|Sst_12,sst_sst_chodl_pvalb|30,good,auroc_0.5
+rhesus|Sst_13,sst_sst_chodl_pvalb|25,good,auroc_0.5
+rhesus|Sst_14,sst_sst_chodl_pvalb|18,good,auroc_0.5
+rhesus|Sst_2,sst_sst_chodl_pvalb|22,good,auroc_0.5
+rhesus|Sst_3,sst_sst_chodl_pvalb|22,good,auroc_0.5
+rhesus|Sst_4,sst_sst_chodl_pvalb|32,poor,top_10
+rhesus|Sst_5,sst_sst_chodl_pvalb|32,good,auroc_0.5
+rhesus|Sst_6,sst_sst_chodl_pvalb|20,good,auroc_0.5
+rhesus|Sst_7,sst_sst_chodl_pvalb|20,good,auroc_0.5
+rhesus|Sst_8,sst_sst_chodl_pvalb|29,good,auroc_0.5
+rhesus|Sst_9,sst_sst_chodl_pvalb|29,good,auroc_0.5
+marmoset|Chandelier_1,sst_sst_chodl_pvalb|1,good,auroc_0.5
+marmoset|Pvalb_1,sst_sst_chodl_pvalb|3,poor,manual
+marmoset|Pvalb_2,sst_sst_chodl_pvalb|6,good,auroc_0.5
+marmoset|Pvalb_3,sst_sst_chodl_pvalb|2,good,auroc_0.5
+marmoset|Pvalb_4,sst_sst_chodl_pvalb|6,good,auroc_0.5
+marmoset|Pvalb_5,sst_sst_chodl_pvalb|10,good,auroc_0.5
+marmoset|Pvalb_6,sst_sst_chodl_pvalb|12,good,auroc_0.5
+marmoset|Sst Chodl_1,sst_sst_chodl_pvalb|13,good,auroc_0.5
+marmoset|Sst Chodl_2,sst_sst_chodl_pvalb|14,poor,manual
+marmoset|Sst_1,sst_sst_chodl_pvalb|29,good,auroc_0.5
+marmoset|Sst_10,sst_sst_chodl_pvalb|30,good,auroc_0.5
+marmoset|Sst_11,sst_sst_chodl_pvalb|30,good,auroc_0.5
+marmoset|Sst_12,sst_sst_chodl_pvalb|29,poor,top_10
+marmoset|Sst_13,sst_sst_chodl_pvalb|26,good,auroc_0.5
+marmoset|Sst_14,sst_sst_chodl_pvalb|25,good,auroc_0.5
+marmoset|Sst_15,sst_sst_chodl_pvalb|28,good,auroc_0.5
+marmoset|Sst_16,sst_sst_chodl_pvalb|25,good,auroc_0.5
+marmoset|Sst_2,sst_sst_chodl_pvalb|22,good,auroc_0.5
+marmoset|Sst_3,sst_sst_chodl_pvalb|32,good,auroc_0.5
+marmoset|Sst_4,sst_sst_chodl_pvalb|20,good,auroc_0.5
+marmoset|Sst_5,sst_sst_chodl_pvalb|32,good,auroc_0.5
+marmoset|Sst_6,sst_sst_chodl_pvalb|20,good,auroc_0.5
+marmoset|Sst_7,sst_sst_chodl_pvalb|15,good,auroc_0.5
+marmoset|Sst_8,sst_sst_chodl_pvalb|18,good,auroc_0.5
+marmoset|Sst_9,sst_sst_chodl_pvalb|36,good,auroc_0.5
+human|L2/3 IT_1,it_types|1,good,auroc_0.5
+human|L2/3 IT_10,it_types|7,poor,top_10
+human|L2/3 IT_11,it_types|1,good,auroc_0.5
+human|L2/3 IT_12,it_types|1,poor,top_10
+human|L2/3 IT_13,it_types|1,good,auroc_0.5
+human|L2/3 IT_14,it_types|4,good,auroc_0.5
+human|L2/3 IT_2,it_types|5,good,auroc_0.5
+human|L2/3 IT_3,it_types|6,good,auroc_0.5
+human|L2/3 IT_4,it_types|6,good,auroc_0.5
+human|L2/3 IT_5,it_types|1,good,auroc_0.5
+human|L2/3 IT_6,it_types|7,good,auroc_0.5
+human|L2/3 IT_7,it_types|7,good,auroc_0.5
+human|L2/3 IT_8,it_types|7,good,auroc_0.5
+human|L2/3 IT_9,it_types|7,poor,top_10
+human|L4 IT_1,it_types|9,good,auroc_0.5
+human|L4 IT_2,it_types|10,good,auroc_0.5
+human|L4 IT_3,it_types|11,good,auroc_0.5
+human|L5 IT_1,it_types|12,good,auroc_0.5
+human|L5 IT_2,it_types|13,good,auroc_0.5
+human|L5 IT_3,it_types|12,good,auroc_0.5
+human|L5 IT_4,it_types|13,poor,top_10
+human|L5 IT_5,it_types|13,good,auroc_0.5
+human|L5 IT_6,it_types|13,good,auroc_0.5
+human|L5 IT_7,it_types|15,good,auroc_0.5
+human|L6 IT Car3_1,it_types|16,good,auroc_0.5
+human|L6 IT Car3_2,it_types|17,good,auroc_0.5
+human|L6 IT Car3_3,it_types|17,good,auroc_0.5
+human|L6 IT_1,it_types|18,good,auroc_0.5
+human|L6 IT_2,it_types|19,good,auroc_0.5
+chimp|L2/3 IT_1,it_types|5,good,auroc_0.5
+chimp|L2/3 IT_2,it_types|7,good,auroc_0.5
+chimp|L2/3 IT_3,it_types|1,good,auroc_0.5
+chimp|L2/3 IT_4,it_types|7,good,auroc_0.5
+chimp|L2/3 IT_5,it_types|6,good,auroc_0.5
+chimp|L2/3 IT_6,it_types|1,good,auroc_0.5
+chimp|L2/3 IT_7,it_types|1,good,auroc_0.5
+chimp|L2/3 IT_8,it_types|4,good,auroc_0.5
+chimp|L4 IT_1,it_types|10,good,auroc_0.5
+chimp|L4 IT_2,it_types|11,good,auroc_0.5
+chimp|L4 IT_3,it_types|9,good,auroc_0.5
+chimp|L5 IT_1,it_types|12,good,auroc_0.5
+chimp|L5 IT_2,it_types|12,good,auroc_0.5
+chimp|L5 IT_3,it_types|13,good,auroc_0.5
+chimp|L5 IT_4,it_types|13,good,auroc_0.5
+chimp|L6 IT Car3_1,it_types|17,good,auroc_0.5
+chimp|L6 IT Car3_2,it_types|16,good,auroc_0.5
+chimp|L6 IT_1,it_types|19,good,auroc_0.5
+gorilla|L2/3 IT_1,it_types|7,good,auroc_0.5
+gorilla|L2/3 IT_2,it_types|5,good,auroc_0.5
+gorilla|L2/3 IT_3,it_types|1,good,auroc_0.5
+gorilla|L2/3 IT_4,it_types|1,good,auroc_0.5
+gorilla|L2/3 IT_5,it_types|4,good,auroc_0.5
+gorilla|L4 IT_1,it_types|9,good,auroc_0.5
+gorilla|L4 IT_2,it_types|4,good,auroc_0.5
+gorilla|L4 IT_3,it_types|10,good,auroc_0.5
+gorilla|L4 IT_4,it_types|11,good,auroc_0.5
+gorilla|L5 IT_1,it_types|13,good,auroc_0.5
+gorilla|L5 IT_2,it_types|13,good,auroc_0.5
+gorilla|L5 IT_3,it_types|12,good,auroc_0.5
+gorilla|L6 IT Car3_1,it_types|17,good,auroc_0.5
+gorilla|L6 IT Car3_2,it_types|16,good,auroc_0.5
+gorilla|L6 IT Car3_3,it_types|17,good,auroc_0.5
+gorilla|L6 IT_1,it_types|19,poor,top_10
+gorilla|L6 IT_2,it_types|19,good,auroc_0.5
+gorilla|L6 IT_3,it_types|18,good,auroc_0.5
+rhesus|L2/3 IT_1,it_types|1,poor,top_10
+rhesus|L2/3 IT_10,it_types|7,good,auroc_0.5
+rhesus|L2/3 IT_11,it_types|1,poor,top_10
+rhesus|L2/3 IT_12,it_types|1,poor,top_10
+rhesus|L2/3 IT_13,it_types|1,good,auroc_0.5
+rhesus|L2/3 IT_14,it_types|1,good,auroc_0.5
+rhesus|L2/3 IT_15,it_types|4,good,auroc_0.5
+rhesus|L2/3 IT_16,it_types|1,good,auroc_0.5
+rhesus|L2/3 IT_2,it_types|1,poor,top_10
+rhesus|L2/3 IT_3,it_types|7,poor,top_10
+rhesus|L2/3 IT_4,it_types|7,good,auroc_0.5
+rhesus|L2/3 IT_5,it_types|7,poor,top_10
+rhesus|L2/3 IT_6,it_types|7,good,auroc_0.5
+rhesus|L2/3 IT_7,it_types|5,good,auroc_0.5
+rhesus|L2/3 IT_8,it_types|6,good,auroc_0.5
+rhesus|L2/3 IT_9,it_types|1,good,auroc_0.5
+rhesus|L4 IT_1,it_types|10,good,auroc_0.5
+rhesus|L4 IT_2,it_types|9,good,auroc_0.5
+rhesus|L5 IT_1,it_types|13,good,auroc_0.5
+rhesus|L5 IT_2,it_types|12,good,auroc_0.5
+rhesus|L5 IT_3,it_types|13,good,auroc_0.5
+rhesus|L5 IT_4,it_types|13,good,auroc_0.5
+rhesus|L6 IT Car3_1,it_types|16,poor,manual
+rhesus|L6 IT Car3_2,it_types|17,good,auroc_0.5
+rhesus|L6 IT_1,it_types|19,good,auroc_0.5
+rhesus|L6 IT_2,it_types|19,good,auroc_0.5
+rhesus|L6 IT_3,it_types|18,good,auroc_0.5
+rhesus|L6 IT_4,it_types|18,good,auroc_0.5
+marmoset|L2/3 IT_1,it_types|7,good,auroc_0.5
+marmoset|L2/3 IT_2,it_types|1,good,auroc_0.5
+marmoset|L2/3 IT_3,it_types|6,good,auroc_0.5
+marmoset|L2/3 IT_4,it_types|4,good,auroc_0.5
+marmoset|L4 IT_1,it_types|1,good,auroc_0.5
+marmoset|L4 IT_2,it_types|4,good,auroc_0.5
+marmoset|L4 IT_3,it_types|1,good,auroc_0.5
+marmoset|L4 IT_4,it_types|9,good,auroc_0.5
+marmoset|L4 IT_5,it_types|4,poor,top_20
+marmoset|L4 IT_6,it_types|10,good,auroc_0.5
+marmoset|L5 IT_1,it_types|15,good,auroc_0.5
+marmoset|L5 IT_2,it_types|13,good,auroc_0.5
+marmoset|L5 IT_3,it_types|12,good,auroc_0.5
+marmoset|L6 IT Car3_1,it_types|17,good,auroc_0.5
+marmoset|L6 IT Car3_2,it_types|17,good,auroc_0.5
+marmoset|L6 IT Car3_3,it_types|16,good,auroc_0.5
+marmoset|L6 IT_1,it_types|18,good,auroc_0.5
+marmoset|L6 IT_2,it_types|18,good,auroc_0.5
+marmoset|L6 IT_3,it_types|19,good,auroc_0.5
