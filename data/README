@@ -63,9 +63,9 @@ identified using single-cell and bulk transcriptomic data
     column 9: similar to column 8, but adjusted p-values measure difference betn. human and
     non-human mammals compared to vertebrates (chicken and zebrafish) with non-human mammals
 	
-	  column 10: 1 if gene has adj p-value < 0.05 both in column 8 and 9
+    column 10: 1 if gene has adj p-value < 0.05 both in column 8 and 9
 	
-	  column 11: genes categorized as 'Diverged_in_single-cell' if Div_in_atleast1class = 1;
+    column 11: genes categorized as 'Diverged_in_single-cell' if Div_in_atleast1class = 1;
     'Diverged_in_bulk' if Div_in_bulk = 1; 'Diverged_in_both' for 139 genes with concordant
     divergence in single-cell and bulk data
 
@@ -73,10 +73,10 @@ identified using single-cell and bulk transcriptomic data
 human_top_markers_table.csv: List of marker genes for cell classes, subclasses and cell types in the
 human MTG transcriptomic data
 
-	  Marker genes for 3 cell classes, 24 subclasses and 57 cell types are indicated by '1' in table below
-	
-	  Marker genes were selected using MetaMarkers package (200, 100, 50 genes for each cell class,
+     Marker genes for 3 cell classes, 24 subclasses and 57 cell types are indicated by '1' in table below
+
+     Marker genes were selected using MetaMarkers package (200, 100, 50 genes for each cell class,
 	  subclass and cell type respectively)
 
 
-species5_common_OrthoDb_1-1.csv: list of 14,131 human genes names and their 1-1 orthologs in the other 4 primates
+species5_common_OrthoDb_1-1.csv: list of 14,131 human genes and their 1-1 orthologs in other 4 primates
