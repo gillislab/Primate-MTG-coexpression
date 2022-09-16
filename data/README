@@ -6,7 +6,8 @@ coexp_cons_across_22_species.csv: coexpression conservation scores for 14,131 ge
 all pairs of 22 species
 	
     coexpression conservation scores are calculated using meta-analytic aggregate networks
-    generated from bulk transcriptomic data and accessed from CoCoCoNet
+    generated from bulk transcriptomic data and accessed from CoCoCoNet. These scores can
+    be accessed from https://labshare.cshl.edu/shares/gillislab/resource/Primate_MTG_coexp/
 
     list of species: human, chimp, rhesus macaque, crab-eating macaque, mouse, rat, rabbit,
     pig, cow, goat, sheep, horse, dog, chicken, zebrafish, salmon, trout, fruitfly, silkworm,
