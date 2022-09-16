@@ -3,3 +3,15 @@ Scripts to reproduce cross-species coexpression analysis in the paper titled
 
 ==============================================================================================
 
+We generated a consensus taxonomy of MTG cell types across 5 primates and used this list of 57
+shared cell types to explore the conservation and divergence of transcriptional patterning
+across species. The main steps in this analysis includes:
+    1. Generating pseudo-bulk data (14,131 genes x 57 cell types) from single nucleus RNA-seq
+       datasets in each species
+    2. Calculating expression profile similarity (expressolog scores) for orthologs across
+       each species pair and at different cellular resolutions
+    3. Constructing aggregate coexpression networks from single nucleus expression data
+    4. Calculating the similarity of gene coexpression neighborhoods across species
+    5. Validating the extent of gene functional conservation inferred from single cell data
+       in large scale, meta-analytic bulk coexpression networks of 19 phylogenetically-
+       diverse species across metazoa
