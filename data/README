@@ -1,0 +1,74 @@
+Data related to "Conserved coexpression at single cell resolution across primate brains"
+
+====================================================================================================
+
+coexp_cons_across_22_species.csv: coexpression conservation scores for 14,131 genes between
+all pairs of 22 species
+	
+    coexpression conservation scores are calculated using meta-analytic aggregate networks
+    generated from bulk transcriptomic data and accessed from CoCoCoNet
+
+    list of species: human, chimp, rhesus macaque, crab-eating macaque, mouse, rat, rabbit,
+    pig, cow, goat, sheep, horse, dog, chicken, zebrafish, salmon, trout, fruitfly, silkworm,
+    bee, roundworm, yeast
+	
+	
+expressolog_scores_cell_hierarchy.csv: Expressolog score (expression profile similarity of orthologs
+relative to other genes) at different levels of cellular organization
+
+    Scores (AUROC) for 14,131 genes are calculated at different levels of cell type hierarchy to
+    measure the extent of conserved cross-species coexpression at multiple scales
+
+    Scores averaged over all primate pairs in columns 2-5 and averaged between human and
+    non-human primates in columns 6-9
+
+
+hgnc_syngo_geneset_scores.csv: Performance of HGNC and SynGO-curated gene sets in classifying 57
+consensus cell types within and across primates
+
+    Scores are calculated for gene sets with 5 or more genes, in each cell type both
+    within and across primates
+
+    Scores averaged over species and cell types are reported as 'within_species' and 'cross_species'
+    mean AUROC; used to generate Fig 1G
+
+
+human_nhp_cell_lineage_scores.csv: Expressolog score calculated across cell types at different levels
+of cell hierarchy. Average of scores calculated between human and non-human primates are reported. 
+
+
+human_sc_bulk_diverged_genes.csv: Genes with potential human-specific functional divergence
+identified using single-cell and bulk transcriptomic data
+
+    column 2: 1 if the gene is expressed in human and non-human primates
+
+    column 3: FALSE if the gene has some expression variability across cell types in each of
+    the three classes
+
+    columns 4-6: 1 indicates gene has diverged expression profile betn. Human and NHP
+    (expressolog score < 0.55) in excitatory, inhibitory and non-neurons respectively
+
+    column 7: 1 if gene is diverged (expressolog score < 0.55) in at least one cell class
+
+    column 8: p-values from one-sided Mann-Whitney test to check if coexpression conservation betn.
+    human and non-human mammals	is lesser than that betn. non-human mammals 
+    (p-values adjusted by Benjamini-Hochberg method)
+
+    column 9: similar to column 8, but adjusted p-values measure difference betn. human and
+    non-human mammals compared to vertebrates (chicken and zebrafish) with non-human mammals
+	
+	  column 10: 1 if gene has adj p-value < 0.05 both in column 8 and 9
+	
+	  column 11: genes categorized as 'Diverged_in_single-cell' if Div_in_atleast1class = 1;
+    'Diverged_in_bulk' if Div_in_bulk = 1; 'Diverged_in_both' for 139 genes with concordant
+    divergence in single-cell and bulk data
+
+
+human_top_markers_table.csv: List of marker genes for cell classes, subclasses and cell types in the
+human MTG transcriptomic data
+
+	  Marker genes for 3 cell classes, 24 subclasses and 57 cell types are indicated by '1' in table below
+	
+	  Marker genes were selected using MetaMarkers package (200, 100, 50 genes for each cell class,
+	  subclass and cell type respectively)
+
