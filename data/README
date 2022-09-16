@@ -14,6 +14,11 @@ all pairs of 22 species
     bee, roundworm, yeast
 	
 	
+cross_species_cluster_aggregated_new.txt: list of all within-species cluster and their corresponding
+cross-species cluster mapping. Note that not all cross-species clusters contain clusters from all 5
+primates, and only 57 cross-species clusters contain one or more clusters from each primate.
+
+
 expressolog_scores_cell_hierarchy.csv: Expressolog score (expression profile similarity of orthologs
 relative to other genes) at different levels of cellular organization
 
@@ -73,3 +78,5 @@ human MTG transcriptomic data
 	  Marker genes were selected using MetaMarkers package (200, 100, 50 genes for each cell class,
 	  subclass and cell type respectively)
 
+
+species_1-1_OrthoDb.csv: list of 14,131 human genes names and their 1-1 orthologs in the other 4 primates
