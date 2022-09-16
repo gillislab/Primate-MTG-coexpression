@@ -1,0 +1,921 @@
+gene_set_source,gene_set_label,gene_set_type,gene_set_size,within_species_meanAUROC,cross_species_meanAUROC
+SynGO,GO:0001504,Signaling,6,0.610470175,0.60132807
+SynGO,GO:0007416,Signaling,7,0.869845614,0.858594737
+SynGO,GO:0008021,Signaling,17,0.776210526,0.757684211
+SynGO,GO:0014069,Signaling,103,0.922140351,0.909924561
+SynGO,GO:0016079,Signaling,9,0.773284211,0.751550877
+SynGO,GO:0016081,Signaling,5,0.632487719,0.614224561
+SynGO,GO:0016082,Signaling,11,0.853431579,0.836561404
+SynGO,GO:0030285,Signaling,46,0.913750877,0.899878947
+SynGO,GO:0030672,Signaling,8,0.767375439,0.757178947
+SynGO,GO:0031630,Signaling,5,0.634108772,0.625247368
+SynGO,GO:0042734,Signaling,7,0.702252632,0.691498246
+SynGO,GO:0043083,Signaling,13,0.785315789,0.773594737
+SynGO,GO:0045202,Signaling,208,0.958978947,0.949292982
+SynGO,GO:0045211,Signaling,7,0.783378947,0.770342105
+SynGO,GO:0048488,Signaling,26,0.834157895,0.816612281
+SynGO,GO:0048786,Signaling,13,0.688992982,0.67517193
+SynGO,GO:0050804,Signaling,85,0.972459649,0.964454386
+SynGO,GO:0050807,Signaling,23,0.876817544,0.852924561
+SynGO,GO:0050808,Signaling,7,0.759568421,0.738640351
+SynGO,GO:0051963,Signaling,12,0.806235088,0.790121053
+SynGO,GO:0060078,Signaling,7,0.773673684,0.762117544
+SynGO,GO:0090128,Signaling,11,0.695926316,0.680431579
+SynGO,GO:0097091,Signaling,7,0.772375439,0.758245614
+SynGO,GO:0097107,Signaling,5,0.678091228,0.673840351
+SynGO,GO:0097401,Signaling,15,0.62277193,0.606308772
+SynGO,GO:0097444,Signaling,5,0.685463158,0.680349123
+SynGO,GO:0098693,Signaling,19,0.776996491,0.755654386
+SynGO,GO:0098696,Signaling,17,0.864873684,0.847492982
+SynGO,GO:0098698,Signaling,7,0.649754386,0.644778947
+SynGO,GO:0098700,Signaling,5,0.749498246,0.744294737
+SynGO,GO:0098793,Signaling,93,0.957368421,0.943321053
+SynGO,GO:0098794,Signaling,124,0.957077193,0.946496491
+SynGO,GO:0098831,Signaling,16,0.889252632,0.877519298
+SynGO,GO:0098835,Signaling,6,0.594480702,0.586552632
+SynGO,GO:0098839,Signaling,5,0.639961404,0.626807018
+SynGO,GO:0098843,Signaling,6,0.6182,0.612750877
+SynGO,GO:0098850,Signaling,22,0.782512281,0.759710526
+SynGO,GO:0098871,Signaling,16,0.806719298,0.792912281
+SynGO,GO:0098880,Signaling,6,0.680838596,0.661480702
+SynGO,GO:0098882,Signaling,8,0.815319298,0.799524561
+SynGO,GO:0098884,Signaling,8,0.651508772,0.6441
+SynGO,GO:0098885,Signaling,10,0.757021053,0.746092982
+SynGO,GO:0098888,Signaling,5,0.698470175,0.688596491
+SynGO,GO:0098890,Signaling,7,0.82534386,0.810175439
+SynGO,GO:0098894,Signaling,9,0.643912281,0.631080702
+SynGO,GO:0098919,Signaling,11,0.824091228,0.805389474
+SynGO,GO:0098962,Signaling,16,0.866978947,0.853989474
+SynGO,GO:0098966,Signaling,5,0.610361404,0.600517544
+SynGO,GO:0098974,Signaling,21,0.85517193,0.842675439
+SynGO,GO:0098992,Signaling,25,0.846761404,0.837898246
+SynGO,GO:0098993,Signaling,15,0.763540351,0.753645614
+SynGO,GO:0099010,Signaling,6,0.61702807,0.600080702
+SynGO,GO:0099026,Signaling,8,0.786835088,0.764777193
+SynGO,GO:0099029,Signaling,5,0.726480702,0.718135088
+SynGO,GO:0099031,Signaling,7,0.644694737,0.630184211
+SynGO,GO:0099054,Signaling,11,0.833814035,0.817835088
+SynGO,GO:0099055,Signaling,93,0.977301754,0.970636842
+SynGO,GO:0099056,Signaling,110,0.974480702,0.967938596
+SynGO,GO:0099059,Signaling,39,0.96465614,0.954350877
+SynGO,GO:0099060,Signaling,38,0.895933333,0.878796491
+SynGO,GO:0099061,Signaling,75,0.980649123,0.974419298
+SynGO,GO:0099072,Signaling,32,0.823775439,0.809568421
+SynGO,GO:0099091,Signaling,9,0.662459649,0.657482456
+SynGO,GO:0099092,Signaling,42,0.928985965,0.919078947
+SynGO,GO:0099147,Signaling,6,0.812645614,0.798591228
+SynGO,GO:0099149,Signaling,25,0.822403509,0.789626316
+SynGO,GO:0099150,Signaling,7,0.723940351,0.716963158
+SynGO,GO:0099151,Signaling,12,0.864691228,0.853521053
+SynGO,GO:0099159,Signaling,9,0.653035088,0.646578947
+SynGO,GO:0099161,Signaling,7,0.730873684,0.711796491
+SynGO,GO:0099170,Signaling,26,0.915291228,0.900703509
+SynGO,GO:0099171,Signaling,44,0.943231579,0.92852807
+SynGO,GO:0099173,Signaling,17,0.767445614,0.750045614
+SynGO,GO:0099175,Signaling,49,0.917501754,0.902040351
+SynGO,GO:0099179,Signaling,6,0.704480702,0.697461404
+SynGO,GO:0099504,Signaling,5,0.736603509,0.723385965
+SynGO,GO:0099507,Signaling,23,0.942059649,0.931159649
+SynGO,GO:0099508,Signaling,14,0.860333333,0.843405263
+SynGO,GO:0099509,Signaling,15,0.862010526,0.856712281
+SynGO,GO:0099523,Signaling,33,0.901087719,0.888417544
+SynGO,GO:0099524,Signaling,26,0.822407018,0.811547368
+SynGO,GO:0099525,Signaling,7,0.734638596,0.722445614
+SynGO,GO:0099527,Signaling,13,0.800887719,0.786492982
+SynGO,GO:0099537,Signaling,5,0.773621053,0.762984211
+SynGO,GO:0099538,Signaling,8,0.726407018,0.712315789
+SynGO,GO:0099558,Signaling,5,0.688621053,0.667952632
+SynGO,GO:0099560,Signaling,31,0.955115789,0.940198246
+SynGO,GO:0099566,Signaling,5,0.616147368,0.615685965
+SynGO,GO:0099572,Signaling,9,0.71134386,0.692170175
+SynGO,GO:0099626,Signaling,8,0.845785965,0.823991228
+SynGO,GO:0099645,Signaling,21,0.887421053,0.876985965
+SynGO,GO:0099699,Signaling,7,0.709410526,0.693924561
+SynGO,GO:0140236,Signaling,45,0.595168421,0.57507193
+SynGO,GO:0140242,Signaling,46,0.596880702,0.576852632
+SynGO,GO:0140252,Signaling,7,0.592985965,0.583129825
+SynGO,GO:0150037,Signaling,6,0.793508772,0.778184211
+SynGO,GO:0150052,Signaling,5,0.632066667,0.619949123
+SynGO,GO:1900242,Signaling,14,0.752789474,0.7396
+SynGO,GO:1904315,Signaling,41,0.938663158,0.926777193
+SynGO,GO:1905274,Signaling,10,0.809687719,0.801075439
+SynGO,GO:1905606,Signaling,28,0.925926316,0.908287719
+SynGO,GO:1905806,Signaling,8,0.766940351,0.751854386
+SynGO,GO:2000300,Signaling,33,0.906807018,0.896729825
+SynGO,SYNGO:metabolism,Signaling,5,0.655382456,0.647601754
+SynGO,SYNGO:postsyn_ribosome,Signaling,62,0.609996491,0.587477193
+SynGO,SYNGO:presyn_ribosome,Signaling,46,0.598873684,0.576759649
+HGNC,Abhydrolase domain containing,Other,23,0.724789474,0.70695614
+HGNC,Vesicle associated membrane proteins,Other,7,0.568922807,0.556868421
+HGNC,Wiskott-Aldrich Syndrome protein family,Other,7,0.661396491,0.652889474
+HGNC,Cadherins,Cell Adhesion,51,0.958764912,0.945926316
+HGNC,Major cadherins,Cell Adhesion,24,0.907249123,0.8885
+HGNC,Protocadherins,Cell Adhesion,10,0.772624561,0.759570175
+HGNC,Non-clustered protocadherins,Cell Adhesion,10,0.772624561,0.759570175
+HGNC,Cadherin related,Cell Adhesion,17,0.868101754,0.847585965
+HGNC,Zinc fingers,Other,1165,0.98314386,0.979575439
+HGNC,Zinc fingers C2H2-type,Other,501,0.969835088,0.963563158
+HGNC,Actin related protein 2/3 complex subunits,Other,8,0.574691228,0.566810526
+HGNC,Acyl-CoA synthetase family,Other,20,0.691284211,0.675508772
+HGNC,Acyl-CoA thioesterases,Other,8,0.6104,0.604068421
+HGNC,SCAN domain containing,Other,46,0.69565614,0.667778947
+HGNC,1-acylglycerol-3-phosphate O-acyltransferases,Other,8,0.620778947,0.611947368
+HGNC,ADAM metallopeptidase domain containing,Other,16,0.746852632,0.726121053
+HGNC,ADAM metallopeptidases with thrombospondin type 1 motif,Other,17,0.829414035,0.796263158
+HGNC,Adenylate cyclases,Signaling,8,0.767873684,0.750724561
+HGNC,Ring finger proteins,Other,229,0.944877193,0.929278947
+HGNC,Tripartite motif containing,Other,55,0.804831579,0.785891228
+HGNC,Polycomb group ring fingers,Other,6,0.571470175,0.568354386
+HGNC,Zinc fingers AN1-type,Other,8,0.590214035,0.584785965
+HGNC,THAP domain containing,Other,10,0.544792982,0.541798246
+HGNC,Zinc fingers C2HC-type,Other,12,0.710908772,0.687810526
+HGNC,Nuclear hormone receptors,Signaling,45,0.879326316,0.865798246
+HGNC,Zinc fingers CCCH-type,Other,32,0.752466667,0.741468421
+HGNC,Zinc fingers CCHC-type,Other,16,0.644414035,0.6326
+HGNC,Zinc fingers DHHC-type,Other,20,0.713926316,0.695584211
+HGNC,Zinc fingers FYVE-type,Other,31,0.766294737,0.746389474
+HGNC,GATA zinc finger domain containing,Other,14,0.693003509,0.679052632
+HGNC,Zinc fingers HIT-type,Other,6,0.53465614,0.532336842
+HGNC,Zinc fingers MIZ-type,Other,7,0.592642105,0.587578947
+HGNC,Zinc fingers MYM-type,Other,6,0.561182456,0.552836842
+HGNC,Zinc fingers MYND-type,Other,20,0.720249123,0.703908772
+HGNC,PHD finger proteins,Other,83,0.853705263,0.836914035
+HGNC,Zinc fingers RANBP2-type ,Other,15,0.636045614,0.617968421
+HGNC,Zinc fingers SWIM-type,Other,9,0.652438596,0.642263158
+HGNC,Zinc fingers ZZ-type,Other,17,0.774357895,0.756333333
+HGNC,Zinc fingers CW-type,Other,7,0.592091228,0.580440351
+HGNC,Ubiquitin like modifier activating enzymes,Other,9,0.592291228,0.581757895
+HGNC,Ubiquitin conjugating enzymes E2,Other,29,0.660821053,0.640268421
+HGNC,Aminopeptidases,Other,16,0.654652632,0.633884211
+HGNC,Yip1 domain containing,Other,7,0.542147368,0.533214035
+HGNC,Aminoacyl tRNA synthetases,Other,16,0.604354386,0.586836842
+HGNC,"Aminoacyl tRNA synthetases, Class I",Other,7,0.562301754,0.552347368
+HGNC,"Aminoacyl tRNA synthetases, Class II",Other,9,0.571768421,0.559294737
+HGNC,Zinc fingers GRF-type,Other,5,0.544992982,0.538787719
+HGNC,Zinc fingers CXXC-type,Other,11,0.666617544,0.66497193
+HGNC,Zinc fingers 3CxxC-type,Other,5,0.697519298,0.701764912
+HGNC,G protein-coupled receptors,Signaling,274,0.973845614,0.964882456
+HGNC,"G protein-coupled receptors, Class A rhodopsin-like",Signaling,199,0.962733333,0.951347368
+HGNC,Ligand gated ion channels,Ion Channel,72,0.963996491,0.955350877
+HGNC,Amine receptors,Signaling,33,0.892645614,0.874233333
+HGNC,Adrenoceptors,Signaling,8,0.752645614,0.733336842
+HGNC,"5-hydroxytryptamine receptors, G protein-coupled",Signaling,11,0.767922807,0.749408772
+HGNC,5-hydroxytryptamine receptors,Signaling,14,0.777680702,0.759966667
+HGNC,Cholinergic receptors nicotinic subunits,Signaling,16,0.665715789,0.647366667
+HGNC,Cholinergic receptors,Signaling,21,0.750778947,0.736561404
+HGNC,Ion channels,Ion Channel,285,0.984424561,0.979750877
+HGNC,Voltage-gated ion channels,Ion Channel,132,0.971021053,0.961984211
+HGNC,Sodium channels,Ion Channel,18,0.797101754,0.780735088
+HGNC,Cholinergic receptors muscarinic,Signaling,5,0.661477193,0.656301754
+HGNC,Dopamine receptors,Signaling,5,0.665157143,0.650086116
+HGNC,Calcium channels,Ion Channel,36,0.931933333,0.919491228
+HGNC,Potassium channels,Ion Channel,68,0.952915789,0.94135614
+HGNC,Sodium voltage-gated channels,Ion Channel,11,0.745866667,0.726757895
+HGNC,Cation channels sperm associated ,Ion Channel,6,0.560642105,0.550142105
+HGNC,Chemokine receptors,Signaling,15,0.584298246,0.581064912
+HGNC,Lipid like receptors,Signaling,22,0.690498246,0.677198246
+HGNC,Leukotriene receptors,Other,5,0.547872792,0.537673111
+HGNC,Prostaglandin receptors,Signaling,8,0.651572954,0.636319298
+HGNC,Nucleotide like receptors,Signaling,10,0.651308772,0.643282456
+HGNC,Purinergic receptors,Signaling,13,0.626217544,0.609915789
+HGNC,P2Y receptors,Signaling,7,0.577336842,0.576696491
+HGNC,Purinergic receptors P2X,Signaling,6,0.58454386,0.580007018
+HGNC,Opsin receptors,Signaling,6,0.627203509,0.619403509
+HGNC,Peptide receptors,Signaling,42,0.856642105,0.835345614
+HGNC,Transient receptor potential cation channels,Ion Channel,27,0.843814035,0.814805263
+HGNC,Cyclic nucleotide gated channels,Ion Channel,8,0.589084211,0.579514035
+HGNC,Calcium voltage-gated channel subunits,Ion Channel,24,0.917136842,0.903207018
+HGNC,Potassium calcium-activated channels,Ion Channel,6,0.696754386,0.682557895
+HGNC,"G protein-coupled receptors, Class A orphans",Signaling,48,0.802414035,0.79025614
+HGNC,"G protein-coupled receptors, Class B secretin-like",Signaling,40,0.857670175,0.837077193
+HGNC,Glucagon receptor family,Signaling,5,0.656189964,0.649505282
+HGNC,Potassium voltage-gated channels,Ion Channel,34,0.919992982,0.902442105
+HGNC,"G protein-coupled receptors, Class C metabotropic glutamate/pheromone",Signaling,17,0.869196491,0.847410526
+HGNC,Potassium inwardly rectifying channel subfamily J,Ion Channel,13,0.692989474,0.687975439
+HGNC,Potassium two pore domain channel subfamily K ,Ion Channel,13,0.770435088,0.757052632
+HGNC,Chloride channels,Ion Channel,31,0.832245614,0.81475614
+HGNC,Glutamate metabotropic receptors,Signaling,7,0.84797193,0.823861404
+HGNC,Glutamate receptors,Signaling,24,0.959519298,0.951619298
+HGNC,Glutamate ionotropic receptors,Signaling,17,0.936189474,0.925485965
+HGNC,"G protein-coupled receptors, Class C orphans",Signaling,6,0.534287719,0.531063158
+HGNC,"G protein-coupled receptors, Class F frizzled",Signaling,11,0.592417544,0.583994737
+HGNC,Taste receptors,Signaling,7,0.541432624,0.532680702
+HGNC,Acid sensing ion channel subunits,Ion Channel,5,0.588985965,0.58815614
+HGNC,Ion channels by channel type,Ion Channel,182,0.973354386,0.966270175
+HGNC,Ion channels by gating mechanism,Ion Channel,214,0.983817544,0.978640351
+HGNC,Chloride calcium-activated channels,Ion Channel,14,0.797470175,0.783949123
+HGNC,Chloride voltage-gated channels,Other,6,0.575614035,0.568215789
+HGNC,Porins,Other,13,0.574715789,0.570592982
+HGNC,Aquaporins,Other,10,0.615652632,0.613122807
+HGNC,Chloride intracellular channels,Ion Channel,5,0.604610526,0.603589474
+HGNC,7TM uncharacterized proteins,Other,11,0.619115789,0.606010526
+HGNC,Gap junction proteins,Other,16,0.639694737,0.634552632
+HGNC,Receptor kinases,Signaling,75,0.960231579,0.948285965
+HGNC,Receptor tyrosine kinases,Signaling,58,0.956547368,0.944010526
+HGNC,Guanylate cyclase receptors,Signaling,5,0.554617544,0.537810526
+HGNC,Receptor serine/threonine kinase family,Signaling,12,0.70342807,0.691664912
+HGNC,Type 1 receptor serine/threonine kinases,Signaling,7,0.671659649,0.660517544
+HGNC,Type 2 receptor serine/threonine kinases,Signaling,5,0.586529825,0.580661404
+HGNC,Adenylate kinases,Other,9,0.645196491,0.636649123
+HGNC,ARF GTPase family,Other,28,0.714884211,0.704063158
+HGNC,Ras small GTPase superfamily,Other,146,0.920905263,0.905212281
+HGNC,Wnt family,Other,18,0.704357895,0.684161404
+HGNC,WAP four-disulfide core domain containing,Other,7,0.548771127,0.542824561
+HGNC,WD repeat domain containing,Other,232,0.924178947,0.9051
+HGNC,UBX domain containing,Other,13,0.594329825,0.584629825
+HGNC,U-box domain containing,Other,6,0.550459649,0.544280702
+HGNC,Ubiquitin specific peptidases,Other,45,0.786203509,0.765917544
+HGNC,"RAB, member RAS oncogene GTPases",Other,54,0.822687719,0.807796491
+HGNC,RAS type GTPase family,Other,33,0.824445614,0.804105263
+HGNC,Rho family GTPases,Other,20,0.735291228,0.729203509
+HGNC,RAB like GTPases,Other,5,0.546810526,0.537061404
+HGNC,ArfGAPs,Other,23,0.81494386,0.799910526
+HGNC,A-kinase anchoring proteins,Other,27,0.833687719,0.810268421
+HGNC,Aldehyde dehydrogenases,Other,18,0.675933333,0.659007018
+HGNC,Aldo-keto reductases,Other,10,0.690315789,0.678736842
+HGNC,Alkylation repair homologs,Other,7,0.53945614,0.533424561
+HGNC,Anaphase promoting complex ,Other,14,0.584414035,0.569764912
+HGNC,Ankyrin repeat domain containing,Other,200,0.958978947,0.946361404
+HGNC,Annexins,Other,11,0.687789474,0.670187719
+HGNC,Apolipoproteins,Other,11,0.591838596,0.583963158
+HGNC,Apolipoprotein B mRNA editing enzyme catalytic subunits,Other,6,0.537251773,0.537722807
+HGNC,Arachidonate lipoxygenases,Other,6,0.626368421,0.61425614
+HGNC,Argonaute/PIWI family,Other,6,0.569280702,0.559692982
+HGNC,Armadillo repeat containing,Other,37,0.782989474,0.749764912
+HGNC,Sulfatases,Other,15,0.756663158,0.73392807
+HGNC,Ataxins,Other,5,0.583010526,0.575587719
+HGNC,ATPases,Other,105,0.901340351,0.88074386
+HGNC,AAA ATPases,Other,47,0.753901754,0.735812281
+HGNC,P-type ATPases,Other,38,0.883684211,0.864501754
+HGNC,V-type ATPase subunits,Other,20,0.621950877,0.603291228
+HGNC,ATP binding cassette transporters,Other,41,0.777084211,0.745710526
+HGNC,AT-rich interaction domain containing,Other,14,0.681322807,0.667175439
+HGNC,Baculoviral IAP repeat containing,Other,6,0.550042105,0.535280702
+HGNC,Basic helix-loop-helix proteins,Other,88,0.893470175,0.883431579
+HGNC,BEN domain containing,Other,8,0.651168421,0.639549123
+HGNC,Glycosyltransferases,Other,155,0.965505263,0.953152632
+HGNC,Beta 4-glycosyltransferases,Other,17,0.78245614,0.75942807
+HGNC,Beta 3-glycosyltransferases,Other,21,0.705680702,0.683766667
+HGNC,Glycosyl transferases group 1 domain containing,Other,6,0.588003509,0.578817544
+HGNC,Glycosyltransferase family 2,Other,5,0.547540351,0.541887719
+HGNC,Dolichyl D-mannosyl phosphate dependent mannosyltransferases,Other,9,0.570375439,0.556392982
+HGNC,Exostosin glycosyltransferase family,Other,5,0.605807018,0.586364912
+HGNC,Polypeptide N-acetylgalactosaminyltransferases,Other,17,0.847519298,0.825903509
+HGNC,Fucosyltransferases,Other,9,0.629964912,0.611738596
+HGNC,Mannosyl-glycoprotein N-acetylglucosaminyltransferases,Other,9,0.770319298,0.750005263
+HGNC,Glycosyltransferase family 8,Other,7,0.619294737,0.603045614
+HGNC,Sialyltransferases,Cell Adhesion,18,0.870929825,0.850977193
+HGNC,Glucosaminyl (N-acetyl) transferases/xylosyltransferases,Other,5,0.637445614,0.62132807
+HGNC,Oligosaccharyltransferase complex subunits,Other,12,0.590340351,0.577996491
+HGNC,Biogenesis of lysosomal organelles complex 1 subunits,Other,8,0.564294737,0.551729825
+HGNC,Blood group antigens,Other,33,0.724091228,0.68825614
+HGNC,Bone morphogenetic proteins,Other,6,0.703919298,0.683582456
+HGNC,BPI fold containing,Other,9,0.552697183,0.5432
+HGNC,BRICHOS domain containing,Other,6,0.565273684,0.559964912
+HGNC,Butyrophilins,Other,5,0.641796491,0.630798246
+HGNC,S100 calcium binding proteins,Other,13,0.631470175,0.618282456
+HGNC,Carbonic anhydrases,Other,13,0.722494737,0.701308772
+HGNC,Lipases,Other,20,0.690294737,0.665696491
+HGNC,Patatin like phospholipase domain containing,Other,8,0.559350877,0.548366667
+HGNC,Phospholipases,Other,32,0.867273684,0.84615614
+HGNC,Caspases,Other,8,0.592007018,0.574705263
+HGNC,Cathepsins,Other,13,0.615719298,0.602496491
+HGNC,CD molecules,Other,265,0.955757895,0.940129825
+HGNC,Cyclins,Other,25,0.701740351,0.678057895
+HGNC,Non-coding RNAs,Other,5,0.561474265,0.546381371
+HGNC,Charged multivesicular body proteins,Other,9,0.542284211,0.539124561
+HGNC,Chemokine ligands,Other,15,0.690621053,0.68975614
+HGNC,Chromatin modifying enzymes,Other,64,0.821824561,0.796159649
+HGNC,Lysine demethylases,Other,19,0.670263158,0.647245614
+HGNC,Lysine acetyltransferases,Other,19,0.7036,0.68372807
+HGNC,Lysine methyltransferases,Other,26,0.729277193,0.707954386
+HGNC,Claudins,Other,12,0.624207018,0.606101754
+HGNC,Coiled-coil-helix-coiled-coil-helix domain containing proteins,Other,6,0.535435088,0.530989474
+HGNC,Collagens,Other,41,0.906796491,0.869598246
+HGNC,Complement system,Other,40,0.696884211,0.666526316
+HGNC,Components of oligomeric golgi complex,Other,5,0.577466667,0.567512281
+HGNC,Coronins,Other,5,0.639835088,0.628877193
+HGNC,Cyclin dependent kinases,Other,23,0.795817544,0.766657895
+HGNC,DDB1 and CUL4 associated factors,Other,17,0.663263158,0.651431579
+HGNC,DEAD-box helicases,Other,35,0.634315789,0.61807193
+HGNC,DEAH-box helicases,Other,15,0.59825614,0.582117544
+HGNC,Defensins,Other,5,0.523890625,0.519060391
+HGNC,DENN domain containing,Other,23,0.784957895,0.753070175
+HGNC,Basic leucine zipper proteins,Other,49,0.812021053,0.797961404
+HGNC,Forkhead boxes,Other,27,0.802,0.790391228
+HGNC,High mobility group,Other,15,0.610522807,0.597068421
+HGNC,Canonical high mobility group,Other,11,0.593259649,0.580785965
+HGNC,Homeoboxes,Other,128,0.951842105,0.9441
+HGNC,ANTP class homeoboxes,Other,34,0.801003509,0.802259649
+HGNC,HOXL subclass homeoboxes,Other,7,0.558590106,0.544339192
+HGNC,NKL subclass homeoboxes and pseudogenes,Other,27,0.801652632,0.804075439
+HGNC,PRD class homeoboxes and pseudogenes,Other,31,0.760308772,0.757212281
+HGNC,LIM class homeoboxes,Other,7,0.760207018,0.755657895
+HGNC,POU class homeoboxes and pseudogenes,Other,12,0.744242105,0.726952632
+HGNC,TALE class homeoboxes and pseudogenes,Other,10,0.815189474,0.800535088
+HGNC,CUT class homeoboxes and pseudogenes,Other,6,0.817740351,0.810485965
+HGNC,ZF class homeoboxes and pseudogenes,Other,13,0.834249123,0.818489474
+HGNC,CERS class homeoboxes,Other,6,0.577094737,0.551861404
+HGNC,Myb/SANT domain containing,Other,45,0.783368421,0.765968421
+HGNC,Helix-turn-helix CENPB type domain containing,Other,10,0.545175439,0.545257895
+HGNC,ETS transcription factor family,Other,26,0.778122807,0.769024561
+HGNC,DNA polymerases,Other,24,0.684014035,0.669619298
+HGNC,"Dyneins, axonemal",Other,19,0.69785614,0.677182456
+HGNC,Dyneins,Other,25,0.734414035,0.710238596
+HGNC,"Dyneins, cytoplasmic",Other,11,0.649866667,0.632389474
+HGNC,Elongator acetyltransferase complex ,Other,5,0.539550877,0.530385965
+HGNC,EMI domain containing,Other,7,0.626217544,0.592036842
+HGNC,Receptor ligands,Signaling,242,0.952940351,0.93684386
+HGNC,Exonucleases,Other,14,0.597164912,0.582377193
+HGNC,Ephrins,Cell Adhesion,8,0.625207018,0.616310526
+HGNC,Exportins,Other,6,0.556449123,0.549649123
+HGNC,FA complementation groups,Other,17,0.622515789,0.600812281
+HGNC,Fatty acid binding protein family,Other,14,0.606592982,0.604968421
+HGNC,Fatty acid hydroxylase domain containing,Other,5,0.616308772,0.597992982
+HGNC,Fatty acid desaturases,Other,8,0.628764912,0.62072807
+HGNC,Fibrinogen C domain containing,Other,19,0.670838596,0.647433333
+HGNC,Fibronectin type III domain containing,Cell Adhesion,150,0.985652632,0.980554386
+HGNC,Fibulins,Other,8,0.719364912,0.696485965
+HGNC,F-boxes,Other,60,0.805768421,0.780903509
+HGNC,F-box and leucine rich repeat proteins,Other,17,0.714929825,0.692989474
+HGNC,F-box and WD repeat domain containing,Other,8,0.634210526,0.627950877
+HGNC,F-boxes other,Other,35,0.716831579,0.693038596
+HGNC,Gamma-aminobutyric acid (GABA) receptors,Signaling,21,0.861761404,0.844770175
+HGNC,Gamma-aminobutyric acid type A receptor subunits,Signaling,19,0.847677193,0.830861404
+HGNC,General transcription factors,Other,41,0.664978947,0.645415789
+HGNC,Soluble glutathione S-transferases,Other,9,0.59725614,0.588036842
+HGNC,Proteoglycans,Other,37,0.833950877,0.799868421
+HGNC,Glypicans,Signaling,6,0.703870175,0.677503509
+HGNC,Small leucine rich repeat proteoglycans,Other,11,0.679487719,0.670494737
+HGNC,Collagen proteoglycans,Other,5,0.685266667,0.656298246
+HGNC,G-patch domain containing,Other,22,0.638515789,0.625710526
+HGNC,HAUS augmin like complex ,Other,8,0.564312281,0.554415789
+HGNC,Heat shock proteins,Other,83,0.752024561,0.727038596
+HGNC,Heat shock 70kDa proteins,Other,14,0.63022807,0.62345614
+HGNC,DNAJ (HSP40) heat shock proteins,Other,45,0.709354386,0.677273684
+HGNC,Small heat shock proteins,Other,8,0.601494737,0.600242105
+HGNC,Chaperonins,Other,13,0.550905263,0.546950877
+HGNC,Immunoglobulin superfamily domain containing,Cell Adhesion,331,0.985996491,0.980912281
+HGNC,V-set domain containing,Cell Adhesion,100,0.912778947,0.895982456
+HGNC,C1-set domain containing,Other,8,0.616670175,0.605263158
+HGNC,C2-set domain containing,Other,27,0.795698246,0.778342105
+HGNC,I-set domain containing,Cell Adhesion,151,0.986045614,0.980317544
+HGNC,Immunoglobulin like domain containing,Other,91,0.913407018,0.896821053
+HGNC,INO80 complex ,Other,14,0.582322807,0.575610526
+HGNC,Importins,Other,16,0.641691228,0.626445614
+HGNC,Integrins,Other,21,0.806101754,0.774457895
+HGNC,Interleukins,Other,26,0.605947368,0.593012281
+HGNC,Interleukin receptors,Signaling,34,0.7718,0.744312281
+HGNC,Intermediate filaments,Other,39,0.677666667,0.670778947
+HGNC,"Keratins, type I",Other,14,0.621462898,0.623144112
+HGNC,"Keratins, type II",Other,7,0.560417266,0.550017575
+HGNC,Intermediate filaments Type IV,Other,6,0.631108772,0.634210526
+HGNC,Intraflagellar transport complexes,Other,26,0.696898246,0.668475439
+HGNC,Kallikreins,Other,12,0.623293286,0.611140351
+HGNC,Kelch like,Other,39,0.853680702,0.830505263
+HGNC,Killer cell lectin like receptors,Other,7,0.57766548,0.5657
+HGNC,Kinesins,Other,41,0.810347368,0.789577193
+HGNC,Kruppel like factors,Other,14,0.724635088,0.717238596
+HGNC,La ribonucleoproteins,Other,6,0.585024561,0.579121053
+HGNC,Laminin subunits,Other,11,0.695880702,0.680184211
+HGNC,Galectins,Other,5,0.549059649,0.54247193
+HGNC,Lipocalins,Other,8,0.656340351,0.652615789
+HGNC,Calycin structural superfamily,Other,22,0.669680702,0.66487193
+HGNC,Low density lipoprotein receptors,Signaling,13,0.724280702,0.707329825
+HGNC,LYR motif containing,Other,8,0.581715789,0.566870175
+HGNC,Maestro heat like repeat containing ,Other,9,0.564792982,0.548008772
+HGNC,MAX dimerization proteins,Other,7,0.597557895,0.596266667
+HGNC,Mitochondrial respiratory chain complexes,Other,45,0.626007018,0.60007193
+HGNC,Mitochondrial complex I: NADH:ubiquinone oxidoreductase subunits,Other,35,0.610684211,0.588838596
+HGNC,Mitochondrial respiratory chain complex assembly factors,Other,37,0.642536842,0.616203509
+HGNC,Mitochondrial ribosomal proteins,Other,71,0.650364912,0.627594737
+HGNC,MOB kinase activators,Other,6,0.635733333,0.607717544
+HGNC,Mucins,Other,14,0.600459649,0.587524561
+HGNC,Mitogen-activated protein kinases,Signaling,12,0.728059649,0.713717544
+HGNC,Mitogen-activated protein kinase cascade,Signaling,56,0.887736842,0.864654386
+HGNC,Mitogen-activated protein kinase kinases,Signaling,7,0.624385965,0.610607018
+HGNC,Mitogen-activated protein kinase kinase kinases,Signaling,21,0.754470175,0.729149123
+HGNC,Mitogen-activated protein kinase kinase kinase kinases,Other,5,0.609701754,0.598831579
+HGNC,Myosin heavy chains,Other,35,0.866750877,0.841407018
+HGNC,Myosin light chains,Other,9,0.548750877,0.542152632
+HGNC,Myosin binding proteins,Other,8,0.664757895,0.661007018
+HGNC,N-alpha-acetyltransferase subunits,Other,11,0.581529825,0.572645614
+HGNC,Netrins,Cell Adhesion,5,0.754905263,0.7396
+HGNC,NOP2/Sun RNA methyltransferase family,Other,6,0.564108772,0.553008772
+HGNC,NLR family,Other,14,0.58417193,0.56707193
+HGNC,Nudix hydrolase family,Other,18,0.636547368,0.619810526
+HGNC,OTU domain containing,Other,14,0.595105263,0.583285965
+HGNC,Oxysterol binding proteins,Other,12,0.79674386,0.776375439
+HGNC,Paraneoplastic Ma antigens,Other,7,0.599361404,0.588368421
+HGNC,Paired boxes,Other,7,0.595263158,0.580278947
+HGNC,Peptidyl arginine deiminases,Other,5,0.568508834,0.564826316
+HGNC,Phosphatidylinositol glycan anchor biosynthesis,Other,19,0.617108772,0.597001754
+HGNC,Phosphodiesterases,Other,22,0.914905263,0.894921053
+HGNC,Pleckstrin homology domain containing,Other,189,0.974157895,0.965182456
+HGNC,Plexins,Cell Adhesion,8,0.744168421,0.734912281
+HGNC,Poly(ADP-ribose) polymerases,Other,14,0.662866667,0.64277193
+HGNC,Proteasome,Other,42,0.634526316,0.618063158
+HGNC,Protein disulfide isomerases,Other,19,0.643645614,0.628303509
+HGNC,Protein phosphatase catalytic subunits,Other,12,0.633933333,0.612252632
+HGNC,Protein phosphatase 1 regulatory subunits,Other,163,0.96482807,0.952350877
+HGNC,Protein phosphatase 2 regulatory subunits,Other,15,0.712978947,0.697742105
+HGNC,Protein phosphatase 6 regulatory subunits,Other,6,0.677968421,0.672391228
+HGNC,"Protein phosphatases, Mg2+/Mn2+ dependent",Other,16,0.758498246,0.744305263
+HGNC,HAD Asp-based protein phosphatases,Other,12,0.669491228,0.64944386
+HGNC,Protein phosphatases,Other,122,0.960024561,0.948161404
+HGNC,Class I classical Cys-based phosphatases,Other,74,0.950835088,0.938280702
+HGNC,Dual specificity phosphatases,Other,37,0.774733333,0.754449123
+HGNC,Pseudoautosomal regions,Other,10,0.585940351,0.571673684
+HGNC,Pseudoautosomal region 1,Other,8,0.575666667,0.565098246
+HGNC,Receptor accessory proteins,Signaling,6,0.638389474,0.632721053
+HGNC,Regulators of G-protein signaling,Signaling,20,0.82802807,0.807336842
+HGNC,Rho GTPase activating proteins,Other,45,0.944196491,0.92757193
+HGNC,Dbl family Rho GEFs,Other,68,0.944785965,0.92514386
+HGNC,RNA binding motif containing,Other,181,0.927750877,0.912463158
+HGNC,RNA polymerase subunits,Other,23,0.605115789,0.586426316
+HGNC,S ribosomal proteins,Other,28,0.577596491,0.561305263
+HGNC,L ribosomal proteins,Other,48,0.598435088,0.580375439
+HGNC,Secreted frizzled-related proteins,Other,5,0.669056338,0.645614035
+HGNC,Secretory carrier membrane proteins,Other,5,0.570470175,0.560947368
+HGNC,Semaphorins,Cell Adhesion,20,0.862224561,0.834912281
+HGNC,Serine and arginine rich splicing factors,Other,12,0.587063158,0.572554386
+HGNC,Serine proteases,Other,40,0.72505614,0.708692982
+HGNC,Serpin peptidase inhibitors,Other,25,0.686733333,0.67457193
+HGNC,"Serine peptidase inhibitors, Kazal type",Other,7,0.563615658,0.555501754
+HGNC,SH2 domain containing,Other,91,0.913045614,0.888092982
+HGNC,Shisa family members,Other,7,0.681757895,0.672140351
+HGNC,Short chain dehydrogenase/reductase superfamily,Other,56,0.744024561,0.705770175
+HGNC,Sialic acid binding Ig like lectins,Other,6,0.624269504,0.625052632
+HGNC,Sideroflexins,Other,5,0.612666667,0.605791228
+HGNC,SMAD family,Other,8,0.705438596,0.695989474
+HGNC,Solute carriers,Other,376,0.9714,0.963052632
+HGNC,Sorting nexins,Other,26,0.715842105,0.693775439
+HGNC,Sp transcription factors,Other,7,0.568414035,0.56742807
+HGNC,SRY-box transcription factors,Other,14,0.7614,0.757691228
+HGNC,StAR related lipid transfer domain containing,Other,13,0.763838596,0.748277193
+HGNC,Sterile alpha motif domain containing,Other,78,0.960354386,0.948408772
+HGNC,Structural maintenance of chromosomes proteins,Other,7,0.577575439,0.564091228
+HGNC,"Sulfotransferases, cytosolic",Other,7,0.518007018,0.514147368
+HGNC,"Sulfotransferases, membrane bound",Other,30,0.907168421,0.889119298
+HGNC,Suppressors of cytokine signaling,Signaling,6,0.585207018,0.575917544
+HGNC,Synaptotagmins,Other,13,0.7668,0.748808772
+HGNC,T-box transcription factors,Other,14,0.646768421,0.642703509
+HGNC,Tetraspanins,Other,33,0.77205614,0.75107193
+HGNC,Tetratricopeptide repeat domain containing,Other,94,0.890898246,0.871092982
+HGNC,THO complex,Other,6,0.558252632,0.556298246
+HGNC,Trafficking protein particle complex subunits,Other,14,0.595235088,0.577933333
+HGNC,Transglutaminases,Other,9,0.603809859,0.595398246
+HGNC,Trinucleotide repeat containing,Other,21,0.841694737,0.829163158
+HGNC,Tubulins,Other,12,0.6206,0.617387719
+HGNC,Tubulin tyrosine ligase family,Other,12,0.63922807,0.608791228
+HGNC,Tudor domain containing,Other,31,0.707410526,0.690468421
+HGNC,Tumor necrosis factor superfamily,Other,16,0.617045614,0.600059649
+HGNC,Tumor necrosis factor receptor superfamily,Signaling,23,0.682810526,0.667066667
+HGNC,Ubiquitin protein ligase E3 component n-recognins,Other,7,0.580950877,0.568415789
+HGNC,Long non-coding RNAs,Other,5,0.561474265,0.546381371
+HGNC,Adhesion G protein-coupled receptors,Other,26,0.780733333,0.758224561
+HGNC,ATP binding cassette subfamily A,Other,10,0.671298246,0.653852632
+HGNC,ATP binding cassette subfamily B,Other,11,0.607870175,0.590121053
+HGNC,ATP binding cassette subfamily C,Other,7,0.639961404,0.618947368
+HGNC,ATP binding cassette subfamily G,Other,5,0.604154386,0.591840351
+HGNC,Protein tyrosine phosphatases non-receptor type,Signaling,17,0.770589474,0.744215789
+HGNC,Protein tyrosine phosphatases receptor type,Signaling,20,0.950687719,0.93822807
+HGNC,Serine/threonine phosphatases,Other,38,0.793852632,0.773370175
+HGNC,Chitinases,Other,6,0.579680702,0.575736842
+HGNC,Exosome complex,Other,11,0.553059649,0.544085965
+HGNC,Syntaxins,Other,14,0.679287719,0.665517544
+HGNC,Guanylate cyclases,Other,6,0.55402807,0.541038596
+HGNC,Sulfotransferases,Other,37,0.907210526,0.888975439
+HGNC,Synaptotagmin like tandem C2 proteins,Other,8,0.715894737,0.699091228
+HGNC,C2 domain containing,Other,146,0.975347368,0.967001754
+HGNC,Ferlin family,Other,5,0.662508772,0.641726316
+HGNC,Copines,Other,6,0.757466667,0.74177193
+HGNC,C2 and RasGAP domain containing,Other,9,0.702480702,0.686164912
+HGNC,Phosphatidylinositol 3-kinase subunits,Signaling,8,0.637835088,0.622454386
+HGNC,C2 domain containing phospholipases,Other,17,0.839936842,0.8206
+HGNC,C2 domain containing protein kinases,Other,9,0.763533333,0.745631579
+HGNC,C2 tensin-type domain containing,Other,6,0.657414035,0.637680702
+HGNC,Potassium voltage-gated channel regulatory subunits,Ion Channel,11,0.874789474,0.860245614
+HGNC,BTB domain containing,Other,126,0.93005614,0.916173684
+HGNC,Cytochrome P450s,Other,23,0.681470175,0.653954386
+HGNC,EF-hand domain containing,Other,199,0.974603509,0.966240351
+HGNC,Anoctamins,Other,10,0.796866667,0.784563158
+HGNC,Glycine receptors,Signaling,5,0.682564912,0.66712807
+HGNC,Minor histocompatibility antigens,Other,32,0.77877193,0.756212281
+HGNC,Selenoproteins,Other,10,0.578291228,0.566498246
+HGNC,M10 matrix metallopeptidases,Other,16,0.632449123,0.620607018
+HGNC,Astacins,Other,5,0.626926316,0.620731579
+HGNC,MAP kinase phosphatases,Other,11,0.681870175,0.673008772
+HGNC,Atypical dual specificity phosphatases,Other,14,0.65177193,0.640598246
+HGNC,Metzincin metallopeptidases,Other,56,0.900291228,0.874026316
+HGNC,Myotubularins,Other,15,0.654498246,0.638240351
+HGNC,Membrane associated guanylate kinases,Other,24,0.860038596,0.839121053
+HGNC,Angiopoietin like family,Other,7,0.58125614,0.574973684
+HGNC,Cyclophilin peptidylprolyl isomerases,Other,17,0.615908772,0.605357895
+HGNC,FKBP prolyl isomerases,Other,17,0.651754386,0.643073684
+HGNC,Immunophilins,Other,34,0.69505614,0.682936842
+HGNC,Peptidylprolyl isomerases,Other,36,0.696919298,0.684485965
+HGNC,Granins,Other,6,0.709224561,0.692070175
+HGNC,Rhomboid family,Other,10,0.663701754,0.652170175
+HGNC,VPS9 domain containing,Other,8,0.656915789,0.642998246
+HGNC,Actins,Other,5,0.557419014,0.54372807
+HGNC,Progestin and adipoQ receptor family,Signaling,10,0.660887719,0.648587719
+HGNC,COP9 signalosome ,Other,9,0.539698246,0.528796491
+HGNC,Histone deacetylase superfamily,Other,18,0.708063158,0.696378947
+HGNC,Sirtuins,Other,7,0.570378947,0.561138596
+HGNC,Plakins,Other,5,0.588063158,0.576378947
+HGNC,Dynactin subunits,Other,5,0.533294737,0.527819298
+HGNC,ADAMTS like,Other,7,0.69017193,0.645257895
+HGNC,Toll like receptors,Signaling,7,0.652039286,0.654998243
+HGNC,Gelsolin/villins,Other,7,0.64185614,0.622435088
+HGNC,SNAP complex ,Other,5,0.538898246,0.54
+HGNC,Peroxiredoxins,Other,6,0.558214035,0.554566667
+HGNC,XK related family,Other,8,0.672045614,0.66584386
+HGNC,Prefoldin subunits,Other,8,0.569101754,0.567594737
+HGNC,Peroxins,Other,16,0.585922807,0.576814035
+HGNC,Membrane spanning 4-domains,Other,11,0.620035336,0.604322807
+HGNC,Caspase recruitment domain containing,Other,20,0.646691228,0.631836842
+HGNC,Origin recognition complex ,Other,5,0.548452632,0.537021053
+HGNC,NME/NM23 family,Other,6,0.575754386,0.548866667
+HGNC,Cystatin superfamily,Other,10,0.582757895,0.570440351
+HGNC,Proprotein convertase subtilisin/kexin family,Other,6,0.712438596,0.697001754
+HGNC,Acyl-CoA dehydrogenase family,Other,11,0.612670175,0.592491228
+HGNC,Calpains,Other,14,0.635757895,0.61325614
+HGNC,Chromobox family,Other,8,0.562624561,0.558612281
+HGNC,COMM domain containing,Other,9,0.576466667,0.568249123
+HGNC,Dynein regulatory complex,Other,8,0.646596491,0.626901754
+HGNC,E2F transcription factors,Other,7,0.568182456,0.563094737
+HGNC,Desumoylases,Other,10,0.585505263,0.582040351
+HGNC,SUMO specific peptidases,Other,7,0.573778947,0.570319298
+HGNC,"Histone deacetylases, class II",Other,6,0.661845614,0.65365614
+HGNC,Pyrin domain containing,Other,13,0.606322807,0.584377193
+HGNC,Deubiquinating enzymes,Other,77,0.818280702,0.795033333
+HGNC,JAMM/MPN+ metallopeptidase family,Other,11,0.637652632,0.620461404
+HGNC,Death effector domain containing,Other,7,0.592035088,0.584185965
+HGNC,Death associated protein kinases,Other,5,0.622368421,0.606866667
+HGNC,Autophagy related,Other,30,0.691291228,0.673491228
+HGNC,CCR4-NOT transcription complex,Other,10,0.566821053,0.559052632
+HGNC,DNA glycosylases,Other,8,0.55242807,0.54565614
+HGNC,Methyl-CpG binding domain containing,Other,10,0.591873684,0.582312281
+HGNC,MutS homologs,Other,5,0.558852632,0.545592982
+HGNC,Paf1/RNA polymerase II complex ,Other,6,0.565308772,0.562101754
+HGNC,Cullins,Other,8,0.566845614,0.5606
+HGNC,Membrane bound O-acyltransferases,Other,8,0.651578947,0.637087719
+HGNC,Ragulator complex ,Other,5,0.519536842,0.520384211
+HGNC,CTD family phosphatases,Other,8,0.583512281,0.57384386
+HGNC,5'-nucleotidases,Other,6,0.585715789,0.576935088
+HGNC,HAD Asp-based non-protein phosphatases,Other,12,0.622045614,0.609829825
+HGNC,Nucleoporins,Other,25,0.623814035,0.613338596
+HGNC,IgLON cell adhesion molecules,Cell Adhesion,5,0.787670175,0.767612281
+HGNC,14-3-3 phospho-serine/phospho-threonine binding proteins,Other,7,0.603515789,0.592103509
+HGNC,Ribosomal proteins,Other,147,0.683442105,0.653449123
+HGNC,Exocyst complex,Other,9,0.632224561,0.614835088
+HGNC,TNF receptor associated factors,Signaling,6,0.607789474,0.601559649
+HGNC,BCL2 family,Other,22,0.668210526,0.649838596
+HGNC,ATAC complex,Other,11,0.626052632,0.612854386
+HGNC,SAGA complex,Other,16,0.631540351,0.61452807
+HGNC,Cohesin complex,Other,8,0.575557895,0.568708772
+HGNC,Mediator complex,Other,33,0.731063158,0.705505263
+HGNC,GOLD domain containing,Other,14,0.630722807,0.62105614
+HGNC,Transmembrane p24 trafficking proteins,Other,8,0.542473684,0.539305263
+HGNC,Insulin like growth factor binding proteins,Other,6,0.71,0.689422807
+HGNC,Lipid phosphatases,Other,36,0.835140351,0.822680702
+HGNC,Acid phosphatases,Other,5,0.578185965,0.567029825
+HGNC,Sugar phosphatases,Other,11,0.611761404,0.600964912
+HGNC,Phosphatases,Other,187,0.965607018,0.955280702
+HGNC,Phosphoinositide phosphatases,Other,30,0.815863158,0.803642105
+HGNC,HAD Asp-based phosphatases,Other,24,0.716964912,0.691735088
+HGNC,Golgins,Other,11,0.672287719,0.664207018
+HGNC,MCM family,Other,9,0.556814035,0.545589474
+HGNC,LEM domain containing,Other,7,0.55662807,0.553726316
+HGNC,Atypical chemokine receptors,Signaling,5,0.568410526,0.562564912
+HGNC,C-C motif chemokine receptors,Signaling,6,0.53194306,0.525495606
+HGNC,EPH receptors,Signaling,14,0.879312281,0.850550877
+HGNC,"Myosin heavy chains, class I",Other,8,0.69562807,0.671707018
+HGNC,"Myosin heavy chains, class II",Other,11,0.662592982,0.654078947
+HGNC,Keratins,Other,22,0.606136842,0.603864912
+HGNC,ESCRT complexes,Other,26,0.620452632,0.608677193
+HGNC,Spectrins,Other,7,0.633017544,0.623919298
+HGNC,ESCRT-I,Other,9,0.585312281,0.577784211
+HGNC,ESCRT-III,Other,9,0.542284211,0.539124561
+HGNC,Eukaryotic translation initiation factor 3,Other,12,0.553491228,0.543085965
+HGNC,BBSome,Other,7,0.607480702,0.594407018
+HGNC,SNAREs,Other,36,0.712014035,0.689675439
+HGNC,Xeroderma pigmentosum complementation groups,Other,6,0.542494737,0.532892982
+HGNC,Gemins,Other,7,0.532329825,0.526461404
+HGNC,N-acetyltransferases,Other,21,0.675842105,0.662452632
+HGNC,GCN5 related N-acetyltransferases,Other,21,0.675842105,0.662452632
+HGNC,Transmembrane channel like family,Ion Channel,6,0.587677193,0.570978947
+HGNC,MAGE family,Other,10,0.579140351,0.575940351
+HGNC,BAG cochaperones,Other,6,0.551298246,0.544998246
+HGNC,YIP family,Other,17,0.660789474,0.648740351
+HGNC,GRAM domain containing,Other,26,0.7254,0.697349123
+HGNC,PWWP domain containing,Other,16,0.631985965,0.616754386
+HGNC,NADH:ubiquinone oxidoreductase core subunits,Other,7,0.538368421,0.52915614
+HGNC,NADH:ubiquinone oxidoreductase supernumerary subunits,Other,28,0.601568421,0.582535088
+HGNC,Phosphatidylinositol transfer proteins,Other,6,0.740582456,0.739673684
+HGNC,Regulatory factor X family,Other,7,0.638052632,0.636642105
+HGNC,MAPK activated protein kinases,Other,11,0.71594386,0.699431579
+HGNC,RAF family,Other,5,0.601957895,0.587896491
+HGNC,Volume regulated anion channel subunits,Other,5,0.588663158,0.567717544
+HGNC,Integrin beta subunits,Other,8,0.691687719,0.680605263
+HGNC,Integrin alpha subunits,Other,13,0.769985965,0.734198246
+HGNC,CDC42 effector proteins,Other,5,0.597838596,0.591810526
+HGNC,CCAAT/enhancer binding proteins ,Other,5,0.616750877,0.619559649
+HGNC,Helicases,Other,96,0.748052632,0.720254386
+HGNC,DNA helicases,Other,29,0.671736842,0.649868421
+HGNC,RNA helicases,Other,70,0.710136842,0.683678947
+HGNC,UPF1 like RNA helicases,Other,11,0.581245614,0.572545614
+HGNC,SCF complex,Other,63,0.806308772,0.781024561
+HGNC,Lysozymes,Other,7,0.549703571,0.54955614
+HGNC,"Lysozymes, c-type",Other,5,0.574773381,0.577627417
+HGNC,Diacylglycerol kinases,Other,10,0.818617544,0.797198246
+HGNC,Sushi domain containing,Other,46,0.874266667,0.852119298
+HGNC,Myosin phosphatase targeting family,Other,5,0.649985965,0.638747368
+HGNC,Type II classical cadherins,Cell Adhesion,10,0.892245614,0.874498246
+HGNC,Desmosomal cadherins,Other,7,0.615804965,0.587642105
+HGNC,Mannosidases,Other,15,0.775768421,0.753757895
+HGNC,Mannosidases type alpha,Other,13,0.770863158,0.748754386
+HGNC,Mannosidases alpha class 1,Other,7,0.720122807,0.701866667
+HGNC,PR/SET domain family,Other,14,0.676782456,0.671357895
+HGNC,Ras association domain family,Other,9,0.688231579,0.673449123
+HGNC,Glutamate ionotropic receptor kainate type subunits,Other,5,0.813614035,0.80015614
+HGNC,Glutamate ionotropic receptor NMDA type subunits,Signaling,6,0.727017544,0.721852632
+HGNC,Sodium voltage-gated channel alpha subunits,Ion Channel,7,0.679487719,0.660064912
+HGNC,DASH family,Other,7,0.726592982,0.707633333
+HGNC,ATPase Na+/K+ transporting subunits,Other,7,0.678722807,0.673436842
+HGNC,ATPases Ca2+ transporting,Other,7,0.746603509,0.733585965
+HGNC,ATPase phospholipid transporting,Other,14,0.783203509,0.761291228
+HGNC,ATPase orphan transporters,Other,5,0.587245614,0.573857895
+HGNC,Transmembrane BAX inhibitor motif containing,Other,5,0.556877193,0.550050877
+HGNC,Transcription elongation factor A like family,Other,5,0.54885614,0.546545614
+HGNC,LIM domain containing,Other,61,0.915077193,0.900642105
+HGNC,Troponin complex subunits,Other,8,0.668045936,0.674591228
+HGNC,PDZ domain containing,Other,135,0.970961404,0.960998246
+HGNC,Crumbs complex,Other,7,0.693870175,0.68452807
+HGNC,UTPb subcomplex,Other,5,0.529852632,0.525545614
+HGNC,LY6/PLAUR domain containing,Other,22,0.728736842,0.717807018
+HGNC,Translocase of outer mitochondrial membrane complex,Other,5,0.542024561,0.534484211
+HGNC,BEACH domain containing ,Other,9,0.634301754,0.618091228
+HGNC,Bromodomain containing,Other,37,0.753140351,0.732254386
+HGNC,MRH domain containing ,Other,5,0.56122807,0.554698246
+HGNC,"C3 and PZP like, alpha-2-macroglobulin domain containing",Other,5,0.586347368,0.575331579
+HGNC,Diacylglycerol O-acyltransferase 2 family,Other,7,0.56922807,0.572491228
+HGNC,Exon junction complex,Other,5,0.530726316,0.526122807
+HGNC,Arrestins,Other,8,0.608266667,0.609454386
+HGNC,EMSY complex,Other,11,0.595996491,0.580710526
+HGNC,Gla domain containing,Other,12,0.634473684,0.621115789
+HGNC,Scavenger receptors,Signaling,24,0.695031579,0.675047368
+HGNC,NF-kappa B complex subunits,Other,5,0.541778947,0.538063158
+HGNC,Sm spliceosomal proteins,Other,8,0.578140351,0.574157895
+HGNC,AP-1 transcription factor ,Other,7,0.596192982,0.589731579
+HGNC,SNAG transcriptional repressors,Other,8,0.56485461,0.561535088
+HGNC,MBT domain containing,Other,9,0.775891228,0.748494737
+HGNC,ERCC excision repair associated,Other,6,0.559259649,0.551463158
+HGNC,Nucleotide excision repair,Other,25,0.620582456,0.601789474
+HGNC,BCL2 homology region 3 (BH3) only,Other,9,0.625329825,0.613559649
+HGNC,SPARC family,Other,8,0.839887719,0.820652632
+HGNC,Super elongation complex,Other,15,0.762505263,0.73954386
+HGNC,P-TEFb complex subunits,Other,7,0.547003509,0.542882456
+HGNC,F-BAR domain containing ,Other,19,0.832961404,0.814266667
+HGNC,N-BAR domain containing,Other,10,0.751540351,0.74445614
+HGNC,PX-BAR domain containing,Other,12,0.658638596,0.641240351
+HGNC,BAR-PH domain containing,Other,11,0.715992982,0.697384211
+HGNC,AH/BAR superfamily,Other,70,0.930115789,0.914684211
+HGNC,FERM domain containing,Other,49,0.937859649,0.921491228
+HGNC,SPOUT methyltransferase domain containing,Other,6,0.54054386,0.533835088
+HGNC,TIR domain containing,Other,19,0.682926316,0.670757895
+HGNC,C-type lectin domain containing,Other,53,0.772252632,0.754335088
+HGNC,BCH domain containing ,Other,7,0.605849123,0.584864912
+HGNC,Large ribosomal subunit biogenesis complex,Other,9,0.543315789,0.538449123
+HGNC,Adenosine deaminase family,Other,10,0.724614035,0.714863158
+HGNC,Adenosine deaminases acting on RNA,Other,5,0.697698246,0.694945614
+HGNC,NuRD complex subunits,Other,12,0.654880702,0.646231579
+HGNC,SIN3 histone deacetylase complex subunits,Other,9,0.595203509,0.587917544
+HGNC,BTG/Tob family,Other,6,0.616705263,0.610073684
+HGNC,Alpha arrestins,Other,5,0.620792982,0.617401754
+HGNC,M14 carboxypeptidases,Other,27,0.716112281,0.691592982
+HGNC,SRCAP complex,Other,8,0.542136842,0.539884211
+HGNC,casein kinase 1 family,Other,6,0.566901754,0.552782456
+HGNC,Death inducing signaling complex ,Other,5,0.587389474,0.578954386
+HGNC,tRNA splicing ligase complex,Other,5,0.54765614,0.536378947
+HGNC,Polycomb repressive complex 2,Other,6,0.567087719,0.549492982
+HGNC,Transcription and export complex 1 subunits,Other,13,0.575722807,0.567778947
+HGNC,Epidermal differentiation complex,Other,16,0.635326316,0.622191228
+HGNC,CAP superfamily,Other,10,0.632224561,0.624692982
+HGNC,Beta-gamma crystallins,Other,12,0.611362676,0.600107018
+HGNC,NineTeen complex,Other,5,0.555410526,0.554473684
+HGNC,Integrator complex,Other,11,0.605063158,0.59527193
+HGNC,Iron (II) and 2-oxoglutarate dependent oxygenases,Other,26,0.700259649,0.675094737
+HGNC,Doublecortin superfamily,Other,10,0.682494737,0.670092982
+HGNC,STRIPAK complex,Other,18,0.70025614,0.685142105
+HGNC,C1q and TNF related ,Other,11,0.677929825,0.67757193
+HGNC,TLC domain containing,Other,12,0.621150877,0.598170175
+HGNC,Mitochondrial complex I assembly complex,Other,5,0.531501754,0.522329825
+HGNC,Src family tyrosine kinases,Other,9,0.606326316,0.601098246
+HGNC,RBR E3 ubiquitin ligases,Other,12,0.731378947,0.721877193
+HGNC,GATOR complex,Other,5,0.562382456,0.556319298
+HGNC,Methyltransferases,Other,155,0.871136842,0.843445614
+HGNC,SET domain containing,Other,40,0.808235088,0.783021053
+HGNC,Seven-beta-strand methyltransferase motif containing,Other,93,0.785045614,0.754905263
+HGNC,Scavenger receptor cysteine rich domain containing,Signaling,27,0.699175439,0.677829825
+HGNC,Glutamine amidotransferase class 1 domain containing,Other,9,0.596659649,0.57697193
+HGNC,Ig-like cell adhesion molecule family,Cell Adhesion,86,0.977308772,0.969342105
+HGNC,Gag like LTR retrotransposon derived genes,Other,58,0.725259649,0.695935088
+HGNC,IgCAM CXADR-related subfamily,Cell Adhesion,8,0.698122807,0.680087719
+HGNC,DNA transposon derived genes,Other,16,0.615624561,0.606582456
+HGNC,Transposable element derived genes,Other,75,0.746978947,0.719278947
+HGNC,WTAP complex,Other,6,0.546821053,0.539401754
+HGNC,G protein subunits alpha,Signaling,11,0.706810526,0.689464912
+HGNC,"G protein subunits alpha, group i",Signaling,6,0.595705263,0.585115789
+HGNC,G protein subunits beta,Other,5,0.621150877,0.615096491
+HGNC,Heterotrimeric G proteins,Other,27,0.830119298,0.811624561
+HGNC,G protein subunits gamma,Signaling,11,0.72097193,0.708408772
+HGNC,Actin related proteins,Other,14,0.607147368,0.601357895
+HGNC,M1 metallopeptidases,Other,12,0.701936842,0.68432807
+HGNC,M13 metallopeptidases,Other,5,0.611652632,0.591598246
+HGNC,M24 metallopeptidase family,Other,8,0.578638596,0.575764912
+HGNC,M28 metallopeptidases,Other,9,0.633789474,0.621047368
+HGNC,M38 metallopeptidases,Other,8,0.723049123,0.705298246
+HGNC,Hyaluronidases,Other,6,0.575722807,0.574842105
+HGNC,Cleavage and polyadenylation specific factor subunits,Other,6,0.5498,0.541096491
+HGNC,Condensin I subunits,Other,5,0.569512281,0.556707018
+HGNC,Condensin II subunits,Other,5,0.569540351,0.563247368
+HGNC,Condensin subunits,Other,8,0.577182456,0.567407018
+HGNC,Tec family tyrosine kinases,Other,5,0.617031802,0.611717544
+HGNC,Non-receptor tyrosine kinases,Signaling,29,0.776884211,0.763010526
+HGNC,Glutaredoxin domain containing,Other,9,0.576066667,0.563529825
+HGNC,Glutathione S-transferases,Other,12,0.658708772,0.649289474
+HGNC,Tetraspan junctional complex superfamily,Other,63,0.855705263,0.835454386
+HGNC,Tetraspan vesicle membrane proteins,Other,12,0.741133333,0.723587719
+HGNC,NSL histone acetyltransferase complex,Other,8,0.577835088,0.569733333
+HGNC,UTPa subcomplex,Other,5,0.532126316,0.525161404
+HGNC,SSU processome,Other,54,0.658340351,0.636677193
+HGNC,LHFPL tetraspan proteins,Other,5,0.694463158,0.685650877
+HGNC,Cilia and flagella associated,Other,57,0.80882807,0.776812281
+HGNC,Armadillo like helical domain containing,Other,282,0.960284211,0.947073684
+HGNC,"Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing",Other,13,0.616838596,0.598998246
+HGNC,TOG domain containing,Other,7,0.588340351,0.577678947
+HGNC,NTC associated proteins,Other,13,0.6272,0.622831579
+HGNC,U1 small nuclear ribonucleoprotein,Other,11,0.618480702,0.610982456
+HGNC,SMN complex,Other,8,0.532259649,0.526731579
+HGNC,U2 small nuclear ribonucleoprotein ,Other,19,0.610807018,0.602661404
+HGNC,U4/U6 small nuclear ribonucleoprotein ,Other,12,0.594670175,0.590210526
+HGNC,U5 small nuclear ribonucleoprotein,Other,15,0.606722807,0.597970175
+HGNC,Spliceosomal A complex,Other,41,0.665312281,0.655254386
+HGNC,LSm proteins,Other,13,0.57802807,0.574931579
+HGNC,tri-snRP complex,Other,36,0.64214386,0.631282456
+HGNC,Spliceosomal B complex,Other,74,0.685452632,0.670321053
+HGNC,Spliceosomal Bact complex,Other,50,0.688522807,0.677722807
+HGNC,Spliceosomal C complex,Other,70,0.704645614,0.692835088
+HGNC,Calcium channel auxiliary gamma subunits,Ion Channel,7,0.671564912,0.661063158
+HGNC,Calcium voltage-gated channel alpha1 subunits,Ion Channel,9,0.800638596,0.78222807
+HGNC,Spliceosomal P complex,Other,65,0.699301754,0.68857193
+HGNC,SF3b complex,Other,6,0.52957193,0.52802807
+HGNC,Major spliceosome,Other,131,0.735635088,0.721307018
+HGNC,Minor spliceosome,Other,28,0.640603509,0.626319298
+HGNC,U11/U12 di-snRNP,Other,21,0.629161404,0.617735088
+HGNC,Spliceosomal E complex,Other,15,0.624761404,0.61534386
+HGNC,VPS-C complexes,Other,8,0.586947368,0.57797193
+HGNC,HOPS complex,Other,6,0.554017544,0.545877193
+HGNC,CORVET complex,Other,6,0.545621053,0.53564386
+HGNC,DOCK family Rho GEFs,Other,11,0.838947368,0.823738596
+HGNC,FASTK mitochondrial RNA binding family,Other,5,0.550624561,0.536370175
+HGNC,Catenins,Other,11,0.767494737,0.734452632
+HGNC,Delta catenins,Other,6,0.6406,0.629570175
+HGNC,MKS complex,Other,8,0.604922807,0.594989474
+HGNC,Pyruvate dehydrogenase complex,Other,5,0.546705263,0.541340351
+HGNC,TIM23 complex,Other,7,0.546375439,0.545554386
+HGNC,CCC complex,Other,9,0.569975439,0.559291228
+HGNC,CTLH complex,Other,7,0.602649123,0.594868421
+HGNC,Purinosome,Other,6,0.558964912,0.552596491
+HGNC,KMN network,Other,8,0.553982456,0.539491228
+HGNC,Constitutive centromere associated network,Other,12,0.571821053,0.552717544
+HGNC,Neurexins,Cell Adhesion,6,0.801863158,0.781322807
+HGNC,PI4KA lipid kinase complex,Other,5,0.624505263,0.615119298
+HGNC,PIK3C3 complex subunits,Other,6,0.561396491,0.555457895
+HGNC,interferon induced transmembrane protein domain containing,Other,6,0.674073684,0.659473684
+HGNC,BAF complex,Other,25,0.849694737,0.842782456
+HGNC,PBAF complex,Other,14,0.632435088,0.624061404
+HGNC,GBAF complex,Other,11,0.655312281,0.645566667
+HGNC,Metallo-beta-lactamase fold containing family,Other,14,0.637280702,0.626638596
+HGNC,MBL domain containing glyoxalase 2 subfamily,Other,5,0.551684211,0.545568421
+HGNC,MBL fold containing DNA/RNA interacting subfamily,Other,8,0.553242105,0.541682456
+HGNC,AGC family kinases,Other,51,0.929652632,0.914712281
+HGNC,MARVEL domain containing,Other,20,0.783677193,0.759366667
+HGNC,Axonemal dynein assembly factors,Other,7,0.560919298,0.548964912
+HGNC,Calmodulin dependent protein kinases,Other,10,0.822031579,0.809978947
+HGNC,Granule associated serine proteases of immune defence,Other,5,0.565803704,0.569908451
+HGNC,Complement system activation components,Other,20,0.631849123,0.609438596
+HGNC,Complement system regulators and receptors,Signaling,20,0.684185965,0.653942105
+HGNC,C1q domain containing,Other,25,0.743017544,0.721449123
+HGNC,Glycoside hydrolases,Other,63,0.831547368,0.804633333
+HGNC,Chordin family,Other,5,0.733610526,0.714561404
+HGNC,Inhibin subunits,Other,5,0.577549645,0.565408772
+HGNC,Pseudouridine synthases,Other,12,0.578831579,0.565205263
+HGNC,Flavin containing monooxygenases,Other,5,0.532357895,0.529629825
+HGNC,Myosin light chain kinase family,Other,6,0.644957895,0.624114035
+HGNC,Adaptor related protein complexes,Other,27,0.706554386,0.692896491
+HGNC,Adaptor related protein complex 1,Other,7,0.65157193,0.647838596
+HGNC,Adaptor related protein complex 2,Other,5,0.553884211,0.54274386
+HGNC,Adaptor related protein complex 3,Other,7,0.591070175,0.577505263
+HGNC,Wnt enhanceosome complex,Other,17,0.840950877,0.831322807
+HGNC,EMAP like,Other,6,0.676838596,0.658012281
+HGNC,Mitochondrial intermembrane space bridging complex ,Other,7,0.57102807,0.558319298
+HGNC,Endoribonucleases,Other,18,0.64745614,0.633578947
+HGNC,MicroRNA host genes,Other,743,0.989585965,0.98615614
+HGNC,MicroRNA protein coding host genes,Other,743,0.989585965,0.98615614
+HGNC,Macro domain containing,Other,7,0.593084211,0.584621053
+HGNC,Ribosomal biogenesis factors,Other,87,0.686719298,0.665161404
+HGNC,Stomatin family,Other,5,0.560568421,0.5589
+HGNC,Interferon regulatory factors ,Other,8,0.545459649,0.533498246
+HGNC,General transcription factor IIH complex subunits,Other,10,0.605185965,0.585559649
+HGNC,General transcription factor IIIC complex subunits,Other,5,0.531701754,0.531954386
+HGNC,Depalmitoylases,Other,6,0.564849123,0.559766667
+HGNC,FA core complex,Other,7,0.589649123,0.573380702
+HGNC,IPT domain containing,Other,28,0.806547368,0.793245614
+HGNC,B-WICH chromatin-remodelling complex subunits,Other,7,0.577747368,0.568517544
+HGNC,SCAR/WAVE complex,Other,6,0.683014035,0.672998246
+HGNC,Diphthamide biosynthesis pathway genes,Other,7,0.572624561,0.562291228
+HGNC,Histidine triad superfamily,Other,7,0.569466667,0.564612281
+HGNC,ELMO domain containing,Other,5,0.640119298,0.619505263
+HGNC,Family with sequence similarity 83 ,Other,8,0.594773852,0.593031579
+HGNC,KCTD family,Other,18,0.791385965,0.762235088
+HGNC,Ectonucleotide pyrophosphatase/phosphodiesterase family,Other,7,0.652252632,0.632324561
+HGNC,Ectonucleoside triphosphate diphosphohydrolase family,Other,6,0.627863158,0.624087719
+HGNC,Pentatricopeptide repeat containing,Other,5,0.532333333,0.526335088
+HGNC,B7 family,Other,9,0.587547368,0.572722807
+HGNC,SLIT and NTRK like family,Other,6,0.675515789,0.658608772
+HGNC,Thioesterase superfamily,Other,11,0.619585965,0.609938596
+HGNC,Small nucleolar RNA protein coding host genes,Other,120,0.8498,0.827263158
+HGNC,Small nucleolar RNA host genes,Other,120,0.8498,0.827263158
+HGNC,Inter-alpha-trypsin inhibitor heavy chains,Other,6,0.570108772,0.556354386
+HGNC,Mitochondrial iron-sulfur assembly components,Other,10,0.588698246,0.579940351
+HGNC,Iron-sulfur assembly components,Other,13,0.595207018,0.584766667
+HGNC,Nectins and nectin-like molecules,Other,5,0.607389474,0.596357895
+HGNC,Tim17 family,Other,8,0.562087719,0.557559649
+HGNC,NCoR/SMRT transcriptional repression complex subunits,Other,6,0.634901754,0.620963158
+HGNC,Signal recognition particle,Other,6,0.547796491,0.536335088
+HGNC,General transcription factor IID complex subunits ,Other,14,0.571031579,0.564085965
+HGNC,Thioredoxin domain containing ,Other,14,0.632164912,0.616652632
+HGNC,HECT and RLD domain containing E3 ubiquitin protein ligases,Other,6,0.607982456,0.593922807
+HGNC,Fibroblast growth factor family,Other,16,0.706182456,0.681321053
+HGNC,Glycoprotein hormone subunits,Other,5,0.569210332,0.564524911
+HGNC,Neuropeptides,Signaling,47,0.841449123,0.830973684
+HGNC,Contactins,Cell Adhesion,6,0.822189474,0.796747368
+HGNC,Lysosome associated membrane proteins,Other,5,0.622740351,0.615882456
+HGNC,ER membrane protein complex subunits,Other,8,0.554550877,0.548808772
+HGNC,COPI coat complex,Other,9,0.572687719,0.5558
+HGNC,AH domain containing,Other,5,0.589712281,0.5798
+HGNC,AH/BAR family Rho GTPase activating proteins,Other,11,0.815035088,0.788584211
+HGNC,Prolyl 3-hydroxylase family,Other,5,0.609403509,0.592075439
+HGNC,Isocitrate dehydrogenases,Other,5,0.572821053,0.561978947
+HGNC,Peptidase family A1,Other,6,0.59017193,0.585082456
+HGNC,Transforming growth factor beta superfamily,Other,24,0.73594386,0.711694737
+HGNC,Sec7 family,Other,16,0.771091228,0.751849123
+HGNC,Heterogeneous nuclear ribonucleoproteins,Other,24,0.628484211,0.612584211
+HGNC,Glycosylphosphatidylinositol transamidase complex,Other,5,0.554305263,0.549561404
+HGNC,Rho guanine nucleotide exchange factors,Other,79,0.957866667,0.942582456
+HGNC,HECT domain containing,Other,27,0.849792982,0.828673684
+HGNC,COPII coat complex,Other,11,0.676961404,0.671652632
+HGNC,Protein coat complexes,Other,47,0.781431579,0.76474386
+HGNC,SURF complex,Other,6,0.538477193,0.531703509
+HGNC,DECID complex,Other,9,0.562473684,0.550875439
+HGNC,Steroid 5-alpha reductase family,Other,5,0.57017193,0.558585965
+HGNC,SUN family,Other,5,0.562887719,0.560750877
+HGNC,CREB3 transcription factor family,Other,5,0.61142807,0.596189474
+HGNC,IFT-A complex,Other,5,0.572522807,0.561603509
+HGNC,IFT-B complex,Other,14,0.642094737,0.621331579
+HGNC,IFT-B1 complex,Other,9,0.588070175,0.569849123
+HGNC,IFT-B2 complex,Other,5,0.599785965,0.587949123
+HGNC,Large subunit mitochondrial ribosomal proteins,Other,45,0.605575439,0.585184211
+HGNC,Small subunit mitochondrial ribosomal proteins,Other,20,0.583540351,0.575008772
+HGNC,minichromosome maintenance 2-7 complex,Other,6,0.555540351,0.5532
+HGNC,CMG helicase complex,Other,9,0.563954386,0.558778947
+HGNC,Linker of nucleoskeleton and cytoskeleton complex subunits,Other,9,0.592621053,0.580845614
+HGNC,Formins,Other,14,0.831340351,0.799992982
+HGNC,Type II transmembrane serine proteases,Other,18,0.615175439,0.597961404
+HGNC,Dynein 1 complex subunits,Other,9,0.619740351,0.606882456
+HGNC,Dynein 2 complex subunits,Other,7,0.594719298,0.580526316
+HGNC,"Dyneins, axonemal outer arm complex subunits",Other,13,0.63422807,0.618484211
+HGNC,"Dyneins, axonemal inner arm I1/f complex subunits",Other,9,0.656196491,0.641845614
+HGNC,Radical S-adenosylmethionine domain containing,Other,7,0.584884211,0.575257895
+HGNC,"Myosin light chains, class 1",Other,5,0.534978947,0.529115789
+HGNC,CREC family,Other,5,0.585824561,0.580640351
+HGNC,U11 small nuclear ribonucleoprotein,Other,12,0.595249123,0.58975614
+HGNC,Axonemal radial spoke subunits ,Other,6,0.567207018,0.556575439
+HGNC,7TM proteins,Other,285,0.974217544,0.965417544
+HGNC,7BS protein lysine methyltransferases,Other,5,0.574470175,0.570973684
+HGNC,7BS protein arginine methyltranferases,Other,9,0.650407018,0.638
+HGNC,7BS protein methyltransferases,Other,21,0.695933333,0.679478947
+HGNC,7BS DNA/RNA methyltransferases,Other,50,0.686168421,0.656733333
+HGNC,7BS C5-cytosine DNA/RNA methyltransferases,Other,11,0.617438596,0.607859649
+HGNC,7BS N6-adenosine DNA/RNA methyltransferases,Other,10,0.576301754,0.556161404
+HGNC,7BS 2'O-ribose DNA/RNA methyltransferases,Other,7,0.54654386,0.543480702
+HGNC,7BS small molecule methyltransferases,Other,14,0.6204,0.604163158
+HGNC,SWI/SNF related BAF chromatin remodeling complexes,Other,27,0.855192982,0.849096491
+HGNC,Peptidase family A22,Other,7,0.56782807,0.561029825
+HGNC,Class I HDAC complexes,Other,24,0.726445614,0.71037193
+HGNC,Metallopeptidases,Other,73,0.922084211,0.897812281
+HGNC,Peptidase family C1,Other,16,0.627259649,0.612729825
+HGNC,Glyoxalase domain containing family,Other,6,0.534312281,0.530875439
