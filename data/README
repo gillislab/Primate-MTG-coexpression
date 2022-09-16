@@ -79,4 +79,4 @@ human MTG transcriptomic data
 	  subclass and cell type respectively)
 
 
-species_1-1_OrthoDb.csv: list of 14,131 human genes names and their 1-1 orthologs in the other 4 primates
+species5_common_OrthoDb_1-1.csv: list of 14,131 human genes names and their 1-1 orthologs in the other 4 primates
