@@ -1,12 +1,15 @@
 The following manifests list the locations of files on NeMO containing the raw single-nucleus sequencing data from the MTG region of five primates:
-10X human: xrcjbnp_manifest.tsv (subset)
 
-10X chimp: NLdDVtA_manifest.tsv  
+Cv3 human: xrcjbnp_manifest.tsv (subset)
 
-10X gorilla:  SM5zKIZ_manifest.tsv
+Cv3 chimp: NLdDVtA_manifest.tsv  
 
-10X macaque: arIbOAV_manifest.tsv
+Cv3 gorilla:  SM5zKIZ_manifest.tsv
 
-SS chimp: 3nyNYbX_manifest.tsv
+Cv3 macaque: arIbOAV_manifest.tsv
 
-SS gorilla: bSGEu3Q_manifest.tsv
+SSv4 human: https://assets.nemoarchive.org/dat-swzf4kc, https://portal.brain-map.org/atlases-and-data/rnaseq/human-mtg-smart-seq
+
+SSv4 chimp: 3nyNYbX_manifest.tsv
+
+SSv4 gorilla: bSGEu3Q_manifest.tsv
