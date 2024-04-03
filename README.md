@@ -7,7 +7,7 @@ While ortholog functional conservation is generally high, we find 24% of genes w
 ![web-server-fig-01](https://user-images.githubusercontent.com/46113011/190569276-f26f19cf-9d85-4757-b593-d57245ee53a6.png)
 
 # Data
-Raw data (snRNA-seq expression atlases of the middle temporal gyrus from five primates) can be downloaded from the NeMO archive (RRID:SCR_016152), and manisfests that list the file locations on NeMO are provided in raw_data_NeMO folder. Steps involved in snRNA-seq data pre-processing are outlined in the associated github repository (https://github.com/AllenInstitute/Great_Ape_MTG). This repository contains additional data files and scripts to recapitulate our analysis. Our datasets are also available for further exploration and analysis through an interactive web browser (https://gillisweb.cshl.edu/Primate_MTG_coexp/).
+Raw data (snRNA-seq expression atlases of the middle temporal gyrus from five primates) can be downloaded from the NeMO archive (RRID:SCR_016152), and manisfests that list the file locations on NeMO are provided in raw_data_NeMO folder. Steps involved in snRNA-seq data pre-processing are outlined in the associated github repository (https://github.com/AllenInstitute/Great_Ape_MTG). This repository contains additional data files and scripts to recapitulate our analysis. Our datasets are also available for further exploration and analysis through an interactive web browser (https://gillislab.shinyapps.io/Primate_MTG_coexp/).
 
 If you find this resource helpful, please consider citing us at:  
 **Conserved coexpression at single cell resolution across primate brains**   
